@@ -14,7 +14,11 @@ endforeach()
 
 set(CMAKE_CXX_STANDARD 17)
 set(BUILD_SHARED_LIBS OFF CACHE BOOL "" FORCE)
-add_subdirectory(third_party/minhook)
+include(FetchContent)
+FetchContent_Declare(minhook
+  GIT_REPOSITORY https://github.com/TsudaKageyu/minhook.git
+  GIT_TAG c3fcafdc10146beb5919319d0683e44e3c30d537)
+FetchContent_MakeAvailable(minhook)
 add_library(DefconCNProof SHARED src/localization.cpp src/native_font.cpp)
 target_link_libraries(DefconCNProof PRIVATE minhook advapi32 gdi32)
 add_executable(DefconCNInject src/inject.cpp)
@@ -32,7 +36,7 @@ add_custom_target(DefconCNAssets ALL
     "$<TARGET_FILE_DIR:DefconCNLaunch>/README.md"
   COMMAND ${CMAKE_COMMAND} -E make_directory "$<TARGET_FILE_DIR:DefconCNLaunch>/licenses"
   COMMAND ${CMAKE_COMMAND} -E copy_if_different
-    "${CMAKE_CURRENT_SOURCE_DIR}/third_party/minhook/LICENSE.txt"
+    "${minhook_SOURCE_DIR}/LICENSE.txt"
     "$<TARGET_FILE_DIR:DefconCNLaunch>/licenses/MinHook.txt"
   DEPENDS DefconCNLaunch)
 foreach(target DefconCNProof DefconCNInject DefconCNLaunch)
