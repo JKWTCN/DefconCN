@@ -1,5 +1,7 @@
 # DEFCON 简体中文汉化
 
+**本项目为非官方、非商业的 DEFCON 简体中文本地化项目，与 Introversion Software Limited 无隶属或授权关系。DEFCON 及相关内容的权利归其各自权利人所有。本项目需要用户自行拥有正版 DEFCON。**
+
 ![1790775203023](image/README/1790775203023.png)
 
 ![1790775218356](image/README/1790775218356.jpg)
@@ -31,7 +33,6 @@ Defcon/
     defconcn/
       chinese.txt
       config.ini
-      english_reference.txt
   licenses/
     MinHook.txt
   README.md
@@ -74,7 +75,7 @@ dialog_chapter                               第 *C 章
 
 仅修改键后面的译文，保留键名、`*C` 等占位符及 `\n` 换行转义。鼠标标记 `[LMB]`、`[RMB]` 用于显示按钮图标，请保持原样。以 `#` 开头的行是注释。
 
-`english_reference.txt` 是英文原文对照。修改译文后，重新启动游戏即可生效。
+修改译文后，重新启动游戏即可生效。
 
 ## 常见问题
 
