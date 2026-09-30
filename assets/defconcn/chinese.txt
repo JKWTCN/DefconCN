@@ -1,0 +1,1561 @@
+# 使用 UTF-8 编码。仅修改译文，保留语言键、*X 占位符和 \n 换行转义。
+# 简体中文语言包。姓名、网址及技术标识保留原文。
+
+lang                                         简体中文
+website_main                                 http://www.everybody-dies.com
+website_main_retail                          http://www.defconthegame.com
+website_main_retail_uk                       http://www.defconvideogame.com
+website_main_retail_multi_language           http://www.everybody-dies.com
+website_buy                                  http://store.introversion.co.uk
+website_buy_steam                            steam://store/1520
+website_buy_retail                           http://www.defconthegame.com
+website_buy_retail_uk                        http://www.defconvideogame.com
+website_buy_retail_multi_language            http://www.everybody-dies.com
+website_buy_macosx                           http://secure.ambrosiasw.com/add.php?action=add&item=3600
+website_support                              http://www.everybody-dies.com/support/
+website_support_retail                       http://www.defconthegame.com/support/
+website_support_retail_uk                    http://www.defconvideogame.com/support/
+website_support_retail_multi_language        http://www.everybody-dies.com/support/
+website_support_macosx                       http://www.ambrosiasw.com/support/
+website_mods                                 http://www.everybody-dies.com/mods/
+website_mods_retail                          http://www.defconthegame.com/mods/
+website_mods_retail_uk                       http://www.defconvideogame.com/mods/
+website_mods_retail_multi_language           http://www.everybody-dies.com/mods/
+dialog_mainmenu                              主菜单
+dialog_newgame                               新游戏
+dialog_playbackrecording                     播放录像
+dialog_joingame                              加入游戏
+dialog_leavegame                             离开游戏
+dialog_manual                                用户手册
+dialog_exit                                  退出游戏
+dialog_confirm_exit                          确认退出
+dialog_preparing                             正在准备游戏...
+dialog_game_starting                         游戏即将开始...
+dialog_tutorial_starting                     正在启动教程...
+dialog_exit_defcon                           退出 DEFCON？
+dialog_leave_this_game                       离开当前游戏？
+dialog_save_recording_title                  保存录像
+dialog_save_recording_line1                  是否将本局游戏
+dialog_save_recording_line2                  保存为录像？
+dialog_chapter                               第 *C 章
+dialog_tutorial                              教程 *T
+dialog_rolling_demo                          自动演示
+dialog_tools                                 工具
+dialog_otheroptions                          其他
+dialog_lobby_start                           从大厅阶段观看完整录像
+dialog_game_start                            跳过大厅，从游戏开始时观看
+dialog_browse_recording                      选择 .dcrec 录像文件
+dialog_play_from_lobby                       从大厅开始
+dialog_play_from_game_start                  从游戏开始
+dialog_play_from_lobby_tooltip               从大厅阶段观看完整录像
+dialog_play_from_game_start_tooltip          跳过大厅，从游戏开始时观看
+dialog_browse_files                          浏览文件...
+dialog_no_file_specified                     未指定文件
+dialog_options                               设置
+dialog_high                                  高
+dialog_medium                                中
+dialog_low                                   低
+dialog_enabled                               开启
+dialog_disabled                              关闭
+dialog_apply                                 应用
+dialog_close                                 关闭
+dialog_back                                  返回
+dialog_yes                                   是
+dialog_yes_l                                 是
+dialog_no                                    否
+dialog_no_l                                  否
+dialog_none                                  无
+dialog_ok                                    确定
+dialog_cancel                                取消
+dialog_cancel_seeking                        取消跳转并恢复正常播放
+dialog_save                                  保存
+dialog_abort                                 中止
+dialog_restore_default                       恢复默认
+dialog_load                                  加载
+dialog_increase                              增加
+dialog_decrease                              减少
+dialog_time_am                               上午
+dialog_time_pm                               下午
+dialog_playername                            玩家名称
+dialog_gamefolder                            玩家数据目录
+dialog_opengamefolder                        打开目录
+dialog_reset_default_prefs                   恢复默认设置
+tooltip_reset_default_prefs                  删除已保存的设置并恢复出厂默认值，游戏将重新启动。
+dialog_reset_prefs_title                     恢复默认设置
+dialog_reset_prefs_confirm1                  确定要恢复默认设置吗？
+dialog_reset_prefs_confirm2                  此操作会重新启动游戏
+tooltip_opengamefolder                       在系统文件管理器中打开 DEFCON 数据目录。
+dialog_changelog                             更新记录
+dialog_openchangelog                         查看
+tooltip_openchangelog                        在默认文本编辑器中打开 changes.txt。
+dialog_teamname                              队伍名称
+dialog_setplayername                         设置玩家名称
+dialog_setteamname                           设置队伍名称
+dialog_graphicsoptions                       图形
+dialog_borders                               显示边界
+dialog_citynames                             显示城市名称
+dialog_countrynames                          显示国家名称
+dialog_messages                              显示消息
+dialog_water                                 显示海洋
+dialog_radiation                             显示辐射
+dialog_lowdetailworld                        简化地图细节
+dialog_objecttrails                          显示单位轨迹
+dialog_lobbyeffects                          大厅效果
+dialog_mapquality                            地图质量
+dialog_mapquality_high                       高
+dialog_mapquality_low                        低
+dialog_mapquality_low_legacy                 低（旧版）
+dialog_waternormal                           普通
+dialog_watershaded                           带阴影
+dialog_soundoptions                          声音
+dialog_unavailable                           不可用
+dialog_audiodriver                           输出设备
+dialog_audiodriver_auto                      自动
+dialog_memoryusage                           内存占用
+dialog_swapstereo                            交换左右声道
+dialog_mastervolume                          主音量
+dialog_musicvolume                           音乐音量
+dialog_ambiencevolume                        环境音量
+dialog_sfxvolume                             音效音量
+dialog_sound_channels                        混音通道数
+dialog_sound_channels_128                    128 通道
+dialog_sound_channels_256                    256 通道
+dialog_sound_channels_512                    512 通道
+tooltip_soundoptions_audiodriver             选择音频输出设备。“自动”由系统选择。
+tooltip_soundoptions_swapstereo              交换左右声道。扬声器或耳机左右接反时可开启。
+tooltip_soundoptions_channels                同时播放的声音数量上限。数值越高，内存和 CPU 占用越大；数值较低时，大量声音同时播放可能导致较轻的声音被省略。
+tooltip_soundoptions_muted                   将游戏所有声音静音。
+tooltip_soundoptions_mastervolume            控制所有声音的总体音量。
+tooltip_soundoptions_musicvolume             音乐音量，相对于主音量调整。
+tooltip_soundoptions_ambiencevolume          背景环境音量，相对于主音量调整。
+tooltip_soundoptions_sfxvolume               音效音量，相对于主音量调整。
+dialog_cpuusage                              CPU 占用
+dialog_cpuusageunknown                       CPU 占用未知
+dialog_screenoptions                         显示
+dialog_fullscreen_mode                       （全屏模式）
+dialog_fullscreen                            全屏
+dialog_screenmode                            显示模式
+dialog_screenmode_fullscreen                 全屏
+dialog_screenmode_windowed                   窗口
+dialog_resolution                            分辨率
+dialog_monitor                               显示器
+dialog_colourdepth                           色彩深度
+dialog_colourdepth_16                        16 位
+dialog_colourdepth_24                        24 位
+dialog_colourdepth_32                        32 位
+dialog_colourdepth_X                         *C 位
+dialog_zbufferdepth                          深度缓冲精度
+dialog_resolution_W_H                        *W x *H
+dialog_antialias_type                        抗锯齿类型
+dialog_antialias_select                      选择质量
+dialog_antialias_type_msaa                   MSAA
+dialog_antialias_type_smaa                   SMAA
+dialog_alias_type_msaa                       MSAA
+dialog_alias_type_ssaa                       SSAA
+dialog_alias_type_smaa                       SMAA
+dialog_antialias                             抗锯齿质量
+dialog_antialias_msaa_2x                     2x MSAA
+dialog_antialias_msaa_4x                     4x MSAA
+dialog_antialias_msaa_8x                     8x MSAA
+dialog_antialias_msaa_16x                    16x MSAA
+dialog_antialias_ssaa_2x                     2x SSAA
+dialog_antialias_ssaa_4x                     4x SSAA
+dialog_antialias_smaa_1x                     1x SMAA
+dialog_antialias_smaa_2x                     2x SMAA
+dialog_antialias_smaa_4x                     4x SMAA
+dialog_hdr                                   HDR
+dialog_not_supported                         不支持
+dialog_fpslimit                              帧率上限
+dialog_fpslimit_no_limit                     不限制
+dialog_fpslimit_refresh_rate                 显示器刷新率
+dialog_fpslimit_30fps                        30 FPS
+dialog_fpslimit_60fps                        60 FPS
+dialog_fpslimit_90fps                        90 FPS
+dialog_fpslimit_120fps                       120 FPS
+dialog_fpslimit_144fps                       144 FPS
+dialog_fpslimit_165fps                       165 FPS
+dialog_fpslimit_240fps                       240 FPS
+dialog_fpslimit_480fps                       480 FPS
+dialog_mipmaplevel                           多级纹理
+dialog_mipmaplevel_0                         不使用多级纹理
+dialog_mipmaplevel_2                         2 级
+dialog_mipmaplevel_4                         4 级
+dialog_mipmaplevel_6                         6 级
+dialog_mipmaplevel_8                         8 级
+dialog_renderer                              渲染器
+dialog_renderer_opengl                       OpenGL
+dialog_renderer_directx11                    DirectX11
+dialog_renderer_vulkan                       Vulkan
+dialog_renderer_metal                        Metal
+tooltip_screenoptions_resolution             游戏画面的像素宽度和高度。
+tooltip_screenoptions_monitor                选择显示 DEFCON 的显示器。
+tooltip_screenoptions_screenmode             全屏以无边框窗口铺满屏幕；窗口模式使用普通桌面窗口。
+tooltip_screenoptions_mipmap                 纹理的多级渐远层数。层数越多，远处纹理的闪烁越少。
+tooltip_screenoptions_antialias              所选抗锯齿方式的质量等级。SSAA 的性能开销远高于 MSAA。
+tooltip_screenoptions_antialiastype          平滑锯齿边缘的方式。MSAA 平滑几何边缘；SSAA 以更高分辨率渲染画面。
+tooltip_screenoptions_hdr                    使用高动态范围色彩空间。
+tooltip_screenoptions_fpslimit               限制每秒帧数。“显示器刷新率”仅将刷新率作为帧率上限，不启用垂直同步。
+tooltip_screenoptions_renderer               选择图形接口。使用 AMD 显卡时，可尝试 OpenGL 以获得更好的性能。
+dialog_networkoptions                        网络
+dialog_networkclientport                     客户端端口
+dialog_networkserverport                     服务器端口
+dialog_networkmetaserverport                 大厅服务器端口
+dialog_networkuseportforwarding              端口转发
+dialog_networktracksync                      跟踪同步错误
+dialog_networktracksynctooltip               开启后，每帧都会记录详细信息，以帮助定位同步错误。\n会显著影响性能。
+dialog_networkportforwardtooltip             无法创建或连接游戏时，可尝试开启此选项。\n你还需在 NAT 路由器上手动配置上述端口的入站 UDP 转发。
+dialog_networkfailed                         失败
+dialog_networkfailedgamerunning              游戏进行时\n无法修改网络设置。
+dialog_networksuccess                        成功
+dialog_networksuccessfull                    网络设置\n已更新。
+dialog_networkporttooltip                    用于通信的端口号，必须大于 1024 且小于 65535。\n设为 0 时，由系统自动选择空闲端口。
+dialog_recordingoptions                      录像
+dialog_recording_savelocation                保存位置
+dialog_recording_savelocation_tooltip        录像文件的保存目录。
+dialog_browse                                浏览
+dialog_recording_checksum                    录像校验
+dialog_recording_checksum_tooltip            检测损坏或被篡改的录像。关闭后将无法进行此项检查！
+dialog_recording_enabletimewarp              跳转过渡动画
+dialog_recording_enabletimewarp_tooltip      跳转录像时，依次显示检查点快照作为过渡，而非直接跳到目标位置。
+dialog_recording_namingformat                命名格式
+dialog_recording_namingformat_tooltip        选择录像文件的命名方式。
+dialog_recording_naming_date                 仅日期
+dialog_recording_naming_servername_date      服务器名称 + 日期
+dialog_recording_autosavebehaviour           自动保存
+dialog_recording_autosavebehaviour_tooltip   选择离开游戏时询问是否保存，或自动保存录像的条件。
+dialog_recording_autosave_alwaysask          总是询问
+dialog_recording_autosave_onlylocal          仅本地游戏
+dialog_recording_autosave_multiplayerandlocal 本地和联机游戏
+dialog_recording_endbehaviour                播放结束后
+dialog_recording_endbehaviour_tooltip        选择录像播放结束后的处理方式。
+dialog_recording_end_stop                    停止
+dialog_recording_end_cputakeover             由电脑接管
+dialog_troubleshooting                       遇到问题？查看故障排查帮助
+dialog_troubleshooting_tooltip               访问故障排查网站，帮助诊断网络问题。
+dialog_no_change_while_in_game_1             无法在游戏进行时
+dialog_no_change_while_in_game_2             修改网络设置
+dialog_authoptions                           身份验证
+dialog_paste                                 粘贴
+dialog_paste_tooltip                         从剪贴板粘贴密钥
+dialog_auth_failed                           身份验证失败
+dialog_bad_key_title                         身份验证失败
+dialog_authkey_not_found                     未找到验证密钥
+dialog_meta_server_details                   \n\n请访问以下网址激活密钥：\nMETASERVER.INTROVERSION.CO.UK
+dialog_not_permitted_start_game              无法验证你的密钥，\n因此不能创建新游戏。\n\n\n密钥：*K\n错误：*E\n*M
+dialog_not_permitted_join_game               无法验证你的密钥，\n因此不能加入游戏。\n\n密钥：*K\n错误：*E\n
+dialog_auth_error                            身份验证错误\n*E\n\n密钥：*K\n
+dialog_type_authkey_or_demo_1                请输入验证密钥
+dialog_type_authkey_or_demo_2                或点击“开始试玩”
+dialog_auth_status                           身份验证状态
+dialog_auth_status_unknown                   未知
+dialog_auth_status_checking                  正在验证...
+dialog_auth_status_demo_user                 试玩用户
+dialog_may_play_as_demo_user                 你也可以选择以试玩用户身份进行游戏。
+dialog_cannot_use_mac_key_on_pc              Mac 版密钥不能用于 PC 版
+dialog_cannot_use_pc_key_on_mac              PC 版密钥不能用于 Mac 版
+dialog_auth_wrong_platform                   平台不匹配
+dialog_auth_key_dead                         密钥已失效
+dialog_auth_version_not_found                未找到此版本
+dialog_auth_key_inactive                     密钥尚未激活
+dialog_auth_version_revoked                  版本已撤销
+dialog_auth_key_not_found                    未找到密钥
+dialog_auth_key_revoked                      密钥已撤销
+dialog_auth_key_banned                       密钥已封禁
+dialog_auth_key_invalid                      密钥无效
+dialog_auth_unknown                          未知
+dialog_auth_accepted                         验证通过
+dialog_controloptions                        控制
+dialog_interface_options                     界面
+dialog_interface_size                        界面大小
+dialog_interface_size_66                     66%
+dialog_interface_size_75                     75%
+dialog_interface_size_85                     85%
+dialog_interface_size_90                     90%
+dialog_interface_size_100                    100%
+dialog_interface_size_dynamic                自适应缩放
+dialog_interface_size_110                    110%
+dialog_interface_size_120                    115%
+dialog_interface_size_125                    125%
+dialog_mouse                                 鼠标
+dialog_software                              软件
+dialog_hardware                              硬件
+dialog_mouse_size                            鼠标大小
+dialog_mouse_small                           小
+dialog_mouse_normal                          普通
+dialog_mouse_large                           大
+dialog_show_fps                              显示帧率
+dialog_sidescrolling                         鼠标边缘滚动
+dialog_zoomspeed                             缩放速度
+dialog_zoomfollowmouse                       以鼠标位置缩放
+dialog_camdragging                           拖动视角
+dialog_tooltips                              显示提示
+dialog_language                              语言
+dialog_panickey                              快速隐藏键
+dialog_restart_required_language             请重新启动 DEFCON，\n以使语言设置生效。
+dialog_keyboardlayout                        键盘布局
+dialog_zoomnormal                            普通
+dialog_zoomslow                              慢
+dialog_lobby                                 大厅
+dialog_lobby_team_options                    队伍设置
+dialog_lobby_advanced_options                高级设置
+dialog_rename                                重命名
+dialog_territories                           领土
+dialog_alliance                              联盟
+dialog_requestai                             添加电脑玩家
+dialog_chat                                  聊天
+dialog_ready                                 准备就绪
+dialog_gamestart                             游戏将在 *X 秒后开始
+dialog_gamestart_whenready                   所有玩家准备就绪后开始游戏
+dialog_gamestart_youready                    你准备就绪后开始游戏
+dialog_kick                                  踢出
+dialog_spectate                              观战
+dialog_join_alliance                         加入 *A
+dialog_closed                                已关闭
+dialog_demo_user                             试玩用户
+dialog_number_players_max                    最多 *N 名玩家
+dialog_click_to_open                         点击开放
+dialog_click_to_close                        点击关闭
+dialog_awaiting_player                       等待玩家...
+dialog_cpu_team_name                         [电脑] *T
+dialog_joining                               [正在加入...]
+dialog_demo_team_name                        [试玩] *T
+dialog_demo_too_many_players                 你正在使用试玩版，\n无法容纳这么多玩家。\n\n若想体验六人联机混战，请先购买完整版。\n\n试玩版每局最多 *N 名玩家
+dialog_edited                                已修改
+dialog_locked                                已锁定
+dialog_click_select_territory                点击选择领土（*T/*M）
+dialog_random_territories                    随机领土
+dialog_option_locked_demo_1                  此选项已锁定
+dialog_option_locked_demo_2                  （试玩玩家）。
+dialog_option_locked_game_mode_1             此选项已锁定
+dialog_option_locked_game_mode_2             当前游戏模式不允许修改。
+dialog_spectators_number                     观战者（最多 *N 人）
+dialog_awaiting_spectators                   等待观战者...
+dialog_internet_identity                     公网地址
+dialog_internet_identity_details             *I : *P
+dialog_lan_identity                          局域网地址
+dialog_server_identity                       服务器地址
+dialog_lobby_defcon                          DEFCOn
+dialog_created_by_introversion               由 INTROVERSION SOFTWARE 制作
+dialog_lobby_version                         版本：
+dialog_lobby_have_latest_version             当前已是最新版本。
+dialog_lobby_newer_version                   有新版本可用：*V
+dialog_lobby_click_to_download               点击此处下载
+dialog_lobby_demo_limitations                试玩版限制
+dialog_lobby_max_demo_game_size              试玩版每局玩家上限
+dialog_lobby_max_demo_players                每局试玩玩家上限
+dialog_lobby_demo_servers_permitted          允许试玩服务器
+dialog_lobby_number_players                  *P 名玩家
+dialog_lobby_metaserver_time                 大厅服务器时间
+dialog_lobby_time_gmt                        *H:*M*A (GMT)
+dialog_lobby_test_hours_start_at             你的测试时段开始于
+dialog_lobby_scheduled_test_hour             预定测试时段
+dialog_lobby_occurring_now                   正在进行
+dialog_lobby_next_test_hour_begins           距下一测试时段还有
+dialog_lobby_minutes                         *M 分钟
+dialog_lobby_hours_minutes                   *H 小时 *M 分钟
+dialog_lobby_authentication                  身份验证：*A
+dialog_lobby_client_ident                    客户端地址：*I:*P
+dialog_lobby_client_ident_unknown            客户端地址：未知
+dialog_lobby_server_ident                    服务器地址：*I:*P
+dialog_lobby_server_ident_unknown            服务器地址：未知
+dialog_alliance_0                            红色
+dialog_alliance_1                            绿色
+dialog_alliance_2                            蓝色
+dialog_alliance_3                            黄色
+dialog_alliance_4                            橙色
+dialog_alliance_5                            青色
+dialog_alliances                             联盟
+dialog_declarewar                            结束与 *T 的停火？
+dialog_ceasefire                             与 *T 停火？
+dialog_ceasefire_title                       停火
+dialog_shareradar                            雷达共享
+dialog_alliance_leave                        离开当前联盟
+dialog_alliance_kick                         将此玩家移出联盟
+dialog_alliance_join                         申请加入此联盟
+dialog_shareradarbegin                       向 *T 共享雷达情报？
+dialog_shareradarend                         停止向 *T 共享雷达情报？
+dialog_vote                                  投票
+dialog_abstain                               弃权
+dialog_you_requested_alliance_1              你已申请
+dialog_you_requested_alliance_2              加入 *A 联盟
+dialog_requested_alliance_1                  *T 已申请
+dialog_requested_alliance_2                  加入你的联盟
+dialog_you_requested_kick_1                  你已提议
+dialog_you_requested_kick_2                  移出 *T
+dialog_requested_kick_1                      *T 已提议
+dialog_requested_kick_2                      移出 *T
+dialog_vote_yes                              赞成
+dialog_vote_no                               反对
+dialog_vote_abstain                          弃权
+dialog_vote_seconds_to_vote                  投票剩余 *S 秒
+dialog_vote_number_votes_required            需要 *V 票
+dialog_vote_succeeded                        通过
+dialog_vote_failed                           未通过
+dialog_alliance_player                       玩家
+dialog_alliance_receiving                    接收
+dialog_alliance_radar                        雷达
+dialog_alliance_sending                      发送
+dialog_alliance_cease                        停
+dialog_alliance_fire                         火
+dialog_replay_viewing_as                     当前视角：*s
+dialog_radar_perspective                     雷达视角
+dialog_radar_overlay_on                      雷达：开启
+dialog_radar_overlay_off                     雷达：关闭
+dialog_placeunit                             部署单位
+dialog_createfleet                           组建舰队
+dialog_credits_1                             *C 部署点数
+dialog_credits_2                             剩余
+dialog_fleets                                舰队
+dialog_units                                 单位
+dialog_place_fleet                           部署舰队
+dialog_paused                                已暂停
+dialog_recording_paused                      录像已暂停
+dialog_recording_finished                    录像播放结束
+dialog_gameover                              游戏结束
+dialog_saved_screenshot                      /me 保存了一张截图
+dialog_steam_authentication_failed           Steam 身份验证失败\n\n
+dialog_steam_logged_in_elsewhere             请重新登录 Steam 以解决此问题。\n退出 DEFCON，在 Steam 的文件菜单中选择“更换用户”。\n输入用户名和密码重新登录。\n\n
+dialog_steam_error                           Steam 错误
+dialog_synchronisation_error                 同步错误
+dialog_connection_problem_seconds            连接异常（*S 秒）
+dialog_high_latency                          延迟过高
+dialog_high_packet_loss                      丢包率过高
+dialog_defcon_x_in_x_time                    *M:*S 后进入 DEFCON *D
+dialog_time_remaining                        剩余 *M:*S
+dialog_autocam                               自动镜头
+dialog_non_playable_demo                     非交互演示
+dialog_tracking_synchronisation              正在追踪同步状态
+dialog_checksum_missing                      录像中未找到安全校验值
+dialog_checksum_failed                       校验失败
+dialog_steam_authentication                  Steam 身份验证
+dialog_steam_play_defcon                     开始 DEFCON
+dialog_steam_auth_status                     Steam 身份验证状态
+dialog_steam_welcome_to_defcon               欢迎来到 DEFCON！
+dialog_steam_may_play_demo                   你可以游玩 DEFCON 试玩版
+dialog_steam_unable_to_auth                  无法验证你的身份。
+dialog_steam_auth_progress                   Steam 身份验证：*P
+dialog_steam_error_edenysteamvalidationstalled Steam 用户身份票据验证失败（服务器无法连接身份验证服务器）。\n
+dialog_steam_error_edenynotloggedon          Steam 登录无效
+dialog_steam_error_edenyloggedinelsewhere    此账号已在其他位置登录
+dialog_steam_error_edenynolicense            此 Steam 账号未拥有该游戏。\n请登录正确的 Steam 账号。
+dialog_steam_error_edenyinvalidversion       客户端与服务器版本不兼容。\n请退出后重新启动。
+dialog_steam_error_edenycheater              此账号已被封禁
+dialog_steam_error_edenyunknowntext          服务器已断开客户端连接
+dialog_steam_error_edenyincompatibleanticheat 你正在运行与安全服务器不兼容的外部工具。
+dialog_steam_error_edenymemorycorruption     检测到内存损坏。
+dialog_steam_error_edenyincompatiblesoftware 你正在运行与安全服务器不兼容的软件。
+dialog_steam_error_edenygeneric              服务器已断开客户端连接
+dialog_steam_error_unknown                   未知
+dialog_steam_progress_not_started            未开始
+dialog_steam_progress_started                已开始
+dialog_steam_progress_starting_steam         正在启动 Steam
+dialog_steam_progress_starting_steam_api     正在初始化 Steam API
+dialog_steam_progress_logging_on_to_steam    正在登录 Steam
+dialog_steam_progress_getting_steam_id       正在获取 Steam ID
+dialog_steam_progress_getting_encryption_details 正在获取加密信息
+dialog_steam_progress_getting_steam2_auth    正在获取 Steam2 验证信息
+dialog_steam_progress_getting_steam3_auth    正在获取 Steam3 验证信息
+dialog_steam_progress_requesting_authentication 正在请求身份验证
+dialog_steam_progress_success                成功
+dialog_steam_progress_success_demo           成功（试玩版）
+dialog_steam_progress_failed                 失败
+dialog_warning                               警告
+dialog_enterpassword                         输入服务器密码
+dialog_setpassword                           设置服务器密码（留空则不设密码）
+dialog_resync_title                          重新同步
+dialog_resync_button                         重新同步
+dialog_resync_caption                        你的游戏状态与其他玩家不同步。\n\n点击“重新同步”尝试修复此问题。\n\n此过程可能需要几分钟。
+team_unassigned                              未分配
+team_ai                                      电脑玩家
+team_local                                   本地玩家
+team_remote                                  远程玩家
+team_name_not_set                            [未设置名称]
+dialog_metaserver_failedtitle                无法连接大厅服务器
+dialog_metaserver_failedconnect              DEFCON 无法连接大厅服务器。\n因此无法获取服务器列表，\n也无法向列表发布你创建的服务器。\n\n请检查网络连接，并尝试关闭\n正在运行的防火墙或其他网络工具。\n\nDEFCON 需要访问以下端口：\n5009 UDP（出站）\n5009 UDP（入站）\n\n更多帮助请参阅故障排查指南：\n
+dialog_client_failedtitle                    网络错误
+dialog_client_failedconnect                  DEFCON 无法为客户端开启网络监听。\n因此无法加入游戏，\n也无法创建游戏。\n\n请尝试关闭正在运行的防火墙或其他网络工具。\n\n更多帮助请参阅故障排查指南：\n
+dialog_server_failedtitle                    无法启动服务器
+dialog_server_failedconnect                  DEFCON 无法启动服务器。\n所需的网络连接不可用。\n\n请尝试关闭正在运行的防火墙或其他网络工具。\n\n更多帮助请参阅故障排查指南：\n
+dialog_screen_error_title                    显示错误
+dialog_renderer_fellback_title               图形
+dialog_renderer_fellback                     你选择的图形接口是 *F，但无法在此电脑上启动，\n因此 DEFCON 改用 *T。\n\n通常需要更新显卡驱动。你的设置未被修改，\n下次启动仍会尝试使用 *F。
+dialog_screen_error_caption                  无法应用所选显示设置：\n*W x *H，*C 位色深，*S。\n\n已恢复为安全设置：\n*w x *h，*c 位色深，*s。
+dialog_restart_required_title                需要重新启动
+dialog_restart_required_caption              请重新启动 DEFCON，\n以使显示设置生效。
+dialog_connection_status                     连接状态
+dialog_abort_current_connection              中止当前连接尝试
+dialog_state_disconnected                    未连接
+dialog_state_connecting                      正在连接...
+dialog_state_connected                       已连接
+dialog_state_attempts                        尝试次数：*A
+dialog_state_receiving                       正在接收...
+dialog_state_received                        接收完成
+dialog_state_synchronising                   正在同步...
+dialog_state_synchronised                    同步完成
+dialog_state_time_remaining                  剩余时间：*M.*S
+dialog_toolbar_units                         单位
+dialog_toolbar_allies                        联盟
+dialog_toolbar_comms                         通信
+dialog_toolbar_scores                        得分
+dialog_toolbar_radar                         雷达
+dialog_toolbar_people                        人口
+dialog_toolbar_orders                        指令
+dialog_toolbar_territory                     领土
+dialog_toolbar_nukes                         核弹
+dialog_toolbar_radiation                     辐射
+dialog_toolbar_white_board                   战术白板
+dialog_toolbar_info                          信息
+dialog_mod                                   模组
+dialog_mod_commit_title                      正在加载模组...
+dialog_mod_commit_mod_path                   正在设置模组路径...\n
+dialog_mod_commit_activating_mod             正在启用模组“*N *V”\n
+dialog_mod_commit_all_mods_off               所有模组已停用
+dialog_mod_error                             错误
+dialog_mod_no_arrangement_change             游戏进行时，不能改变影响游戏规则的关键模组的加载顺序。\n请在游戏结束后修改。
+dialog_mod_bad_gameoptions                   模组“*N”已被拒绝加载。\n\n其游戏选项文件不符合 DEFCON 的格式。\n*R\n\nDEFCON 按名称查找游戏选项。模组若缺少必需选项或\n添加自定义选项，便无法加载。请修正模组中的\ndata/gameoptions.txt，或从模组中删除此文件，\n以使用原版游戏选项。
+dialog_mod_bad_travelmaps                    模组“*N”已被拒绝加载。\n\n地图中有 *C 个航行节点与周围海域不连通。\n\n舰队必须能在所有航行节点之间通行，\n因此 DEFCON 无法使用此地图开始游戏。常见原因包括\ndata/earth/travel_nodes.bmp 与 data/earth/sailable.bmp 不匹配、\n航行节点位于陆地上，或海峡被封闭。
+dialog_mod_protected_file                    模组“*N”已被拒绝加载。\n\n它替换了不允许修改的文件 *F。
+dialog_mod_bad_cities                        模组“*N”已被拒绝加载。\n\n城市列表的第 *L 行无法读取。\n\ndata/earth/cities.dat 中的每条记录都必须分别包含名称、国家、\n经度、纬度、人口和首都标记，各占一列。\n记录字段不完整会导致 DEFCON\n读取不存在的城市数据。
+dialog_mod_empty_cities                      模组“*N”已被拒绝加载。\n\n城市列表为空。\n\nDEFCON 需要 data/earth/cities.dat 中至少有一座城市才能开始游戏。\n请填入城市数据，或从模组中删除此文件，\n以使用原版城市列表。
+dialog_mod_32bit_bitmap                      模组“*N”已被拒绝加载。\n\n*F 是 32 位位图。\n\n旧版 DEFCON 无法读取 32 位位图，\n使用此模组会导致旧版游戏崩溃。\n请将图像另存为 24 位或 8 位位图。
+dialog_mod_bad_geometry                      模组“*N”已被拒绝加载。\n\ndata/earth/*F 的第 *L 行无法读取。\n\n文件中的每个图形必须以字母 b 开头的一行起始，\n随后每行写入一组经纬度坐标。图形内部出现其他格式的行，\n或在第一个图形之前出现坐标点，都会导致加载失败。
+dialog_mod_gameoptions_missing               \n缺少的游戏选项：
+dialog_mod_gameoptions_unknown               \n未知的游戏选项：
+dialog_mod_gameoptions_malformed             \n无法读取文件。
+dialog_mod_not_installed                     （未安装）
+dialog_mod_active                            已启用
+dialog_mod_missing                           缺失
+dialog_mod_clear_all                         全部停用
+dialog_mod_deactivate                        停用
+dialog_mod_activate                          启用
+dialog_mod_click_mods_directory              点击此处打开模组目录
+dialog_mod_click_here                        点击此处
+dialog_mod_move_up                           上移
+dialog_mod_move_down                         下移
+dialog_mod_no_mod_selected                   未选择模组
+dialog_mod_screenshot_not_found              未找到截图
+dialog_mod_install_dir                       安装目录
+dialog_mod_author                            作者
+dialog_mod_website                           网站
+dialog_mod_required_all_players              所有玩家均需安装
+dialog_error_mod_path_title                  模组路径设置失败
+dialog_error_mod_path_caption                模组路径设置失败。\n此服务器正在使用你尚未安装的模组。\n\n服务器正在使用以下模组：\n
+dialog_demo                                  试玩版
+dialog_welcome_to_demo                       欢迎体验试玩版
+dialog_play_demo                             开始试玩
+dialog_buy_now                               立即购买
+dialog_buy_now_caps                          立即购买
+dialog_exit_game_time                        退出游戏（*T）
+dialog_exit_game                             退出游戏
+dialog_welcome_to_demo_defcon                欢迎体验 DEFCON 试玩版。
+dialog_demo_player_unlimited                 你可以创建最多 6 人参与的联机游戏。
+dialog_demo_player_limited                   你可以创建联机游戏，\n但每局最多 *P 名玩家。\n完整版支持最多 6 名玩家。
+dialog_demo_player_join_limited              \n\n你可以加入已有的联机游戏，\n但其中已连接的试玩玩家\n必须少于 *P 人。
+dialog_demo_player_join_unlimited            \n\n你可以加入任何已有的联机游戏。
+dialog_demo_spectate_any_game                \n\n你可以旁观任何游戏。
+dialog_server_browser                        服务器列表
+dialog_server_password                       服务器密码
+dialog_enter_ip_manually                     手动输入 IP
+dialog_filters                               筛选
+dialog_server_details                        服务器 *I : *P
+dialog_server_version_mismatch               无法加入此服务器。\n\n服务器与你使用不同版本，\n且两个版本不兼容。\n\n\n你的版本：*V\n服务器版本：*T
+dialog_cannot_join_server                    无法加入服务器
+dialog_no_join_mods_not_installed            无法加入此服务器。\n\n服务器正在使用你尚未安装的模组。\n需要以下模组：\n\n*R\n\n你可以从以下网址下载模组：\n
+dialog_no_join_own_game                      无法加入此服务器。\n\n这是你自己创建的服务器，\n你已经连接到它。
+dialog_requesting                            正在请求...
+dialog_refresh_number_server                 刷新（*S）
+dialog_server_demo_restricted                此服务器限制试玩用户加入。\n\n可能已有过多试玩玩家连接，或游戏正在使用高级游戏模式。\n\n若想参与此类游戏，请购买完整版。\n\n每局最多 *N 名试玩玩家
+dialog_number_server_found                   找到 *N 个服务器
+dialog_retrieving_server_list                正在获取服务器列表...
+dialog_net_location_lan                      *I:*P [局域网]
+dialog_game_ended                            （已结束）
+dialog_demo_game_mode                        试玩
+dialog_mod_base_number_more                  *M（另有 *N 个）
+dialog_server_name_incompatible              *S [不兼容]
+dialog_server_name_mods_required             *S [需要模组]
+dialog_server_name_your_server               *S [你的服务器]
+dialog_server_name_demo_restricted           *S [试玩受限]
+dialog_server_name_full                      *S [已满]
+dialog_server_name_not_responding            *S [无响应]
+dialog_connected_recently                    （最近连接过）
+dialog_server_browser_teams                  队伍
+dialog_server_browser_specs                  观战者
+dialog_server_browser_time                   时间
+dialog_server_browser_mods                   模组
+dialog_server_browser_game_mode              游戏模式
+dialog_server_browser_server_name            服务器名称
+dialog_server_browser_list                   列表
+dialog_filter_all_games                      所有游戏
+dialog_filter_games_in_lobby                 等待开始
+dialog_filter_games_in_progress              正在进行
+dialog_filter_recent_servers                 最近的服务器
+dialog_filter_lan_games                      局域网游戏
+dialog_filter_enter_ip_manually              手动输入 IP
+dialog_join                                  加入
+dialog_enter_ip                              [输入 IP]
+dialog_connect                               连接
+dialog_server_ip                             服务器 IP
+dialog_server_port                           服务器端口
+dialog_single_player_games                   单人游戏
+dialog_demo_games                            试玩游戏
+dialog_default_named_servers                 使用默认名称的服务器
+dialog_show_single_player_games              显示单人游戏
+dialog_show_demo_games                       显示试玩游戏
+dialog_show_default_named_games              显示使用默认名称的游戏
+dialog_server_name                           名称
+dialog_server_identity_address               地址
+dialog_server_game_name                      游戏
+dialog_server_game_mode                      游戏模式
+dialog_server_score_mode                     计分方式
+dialog_server_started                        [已开始]
+dialog_server_ended                          [已结束]
+dialog_server_not_yet_started                [尚未开始]
+dialog_spectators                            观战者
+dialog_server_game_time                      游戏时间
+dialog_server_scores                         得分
+dialog_retrieving_scores                     正在获取得分...
+dialog_disconnected                          已断开连接
+dialog_disconnect_client_leave               你已离开游戏
+dialog_disconnect_server_shutdown            服务器已关闭
+dialog_disconnect_invalid_key                你使用的密钥无效
+dialog_disconnect_duplicate_key              你使用的密钥已被其他玩家占用
+dialog_disconnect_key_auth_failed            密钥验证失败
+dialog_disconnect_bad_password               密码错误
+dialog_disconnect_game_full                  游戏人数已满
+dialog_disconnect_kicked_from_game           已被服务器踢出
+dialog_disconnect_demo_full                  试玩玩家人数已达上限
+dialog_disconnect_unknown                    未知
+dialog_chat_public                           公共
+dialog_chat_alliance                         联盟
+dialog_chat_spectators                       观战
+dialog_chat_channel_public                   [公共]
+dialog_chat_channel_alliance                 [联盟]
+dialog_chat_channel_spectators               [观战]
+dialog_chat_channel_private                  [私聊]
+dialog_chat_channel_to_team_name             [发送给 *T]
+dialog_white_board_draw_erase                绘制/擦除
+dialog_white_board_clear_all                 全部清除
+dialog_white_board_show_all                  显示全部
+dialog_worldstatus_defcon                    DEFCON
+dialog_worldstatus_defcon_x                  DEFCON *D
+dialog_worldstatus_time_remain_hms           剩余时间：*H 小时 *M 分 *S 秒
+dialog_worldstatus_time_remain_ms            剩余时间：*M 分 *S 秒
+dialog_worldstatus_show_stats                查看统计
+dialog_worldstatus_scoremode                 计分方式
+dialog_worldstatus_cpu_team_name             [电脑]*T
+dialog_worldstatus_left_team_name            [离开]*T
+dialog_worldstatus_demo_team_name            [试玩]*T
+dialog_worldstatus_out_of_sync               不同步
+dialog_worldstatus_out_of_sync_2             不同步
+dialog_worldstatus_spectator_join            观战者（正在加入...）
+dialog_worldstatus_superpower                大国
+dialog_worldstatus_kills                     杀敌人数
+dialog_worldstatus_deaths                    死亡人数
+dialog_worldstatus_survivors                 存活人数
+dialog_worldstatus_collateral                误伤人数
+dialog_worldstatus_nukes                     核弹
+dialog_worldstatus_score                     得分
+dialog_worldstatus_points_value              计分权重：
+dialog_worldstatus_pop_in_millions           *P 百万
+dialog_worldstatus_classified                [保密]
+dialog_worldstatus_seek_recording            点击或拖动以跳转录像
+dialog_stats                                 统计
+dialog_casualties_city                       城市
+dialog_casualties_strikes                    命中次数
+dialog_casualties_deaths                     死亡人数
+dialog_casualties_in_million                 *C 百万
+dialog_network_title                         网络
+dialog_network_server_seqid                  服务器序列号 *S
+dialog_network_server_send                   服务器发送 *R Kb/秒
+dialog_network_server_receive                服务器接收 *R Kb/秒
+dialog_network_id                            ID
+dialog_network_ip_port                       IP:端口
+dialog_network_seqid                         序列号
+dialog_network_seqid_number                  序列号 *S
+dialog_network_name                          名称
+dialog_network_status                        状态
+dialog_network_lost_con                      连接中断...*S 秒
+dialog_network_synching                      正在同步...*P
+dialog_network_ping                          延迟 *P 毫秒
+dialog_network_spec                          （观战）
+dialog_network_empty                         空
+dialog_network_sequence_msg_queue            队列中的序列消息。理想状态是包含 0 或 1 条消息，且序列连续。
+dialog_network_svr_known_seqid               服务器已知序列号 *S
+dialog_network_svr_estimated_seqid           服务器估计序列号 *S
+dialog_network_estimated_latency             估计延迟：*L 秒
+dialog_network_client_seqid                  客户端序列号 *S
+dialog_network_client_send                   客户端发送 *R Kb/秒
+dialog_network_client_receive                客户端接收 *R Kb/秒
+dialog_profile_title                         性能分析
+dialog_profile_reset_history                 清除历史
+dialog_profile_min                           最小
+dialog_profile_avg                           平均
+dialog_profile_max                           最大
+dialog_c2s_team_renamed                      *T 更名为 *N
+dialog_c2s_team_joined_game                  *T 加入了游戏
+dialog_c2s_default_name_spectator            观战者
+dialog_c2s_default_name_player               玩家 *T
+dialog_world_new_spec_connecting             一名新观战者正在连接
+dialog_world_team_left_game                  *T 离开了游戏
+dialog_world_spec_left_game                  观战者 *T 离开了游戏
+dialog_world_rejoined                        *T 重新加入
+dialog_world_disconnected                    *T 断开连接
+dialog_world_dropped                         *T 掉线
+dialog_world_kicked                          *T 被踢出
+dialog_mapr_fps                              *F Fps
+dialog_mapr_city_population                  人口：*P 百万
+dialog_mapr_city_dead                        死亡：*D 百万
+dialog_mapr_mode                             *M 模式
+dialog_mapr_secs                             *S 秒
+dialog_mapr_empty                            已耗尽
+dialog_mapr_cancel_all_orders                取消所有指令
+dialog_mapr_not_before_defcon_x              尚未进入 DEFCON *D
+dialog_mapr_defcon_x_required                需要 DEFCON *D
+dialog_mapr_out_of_range                     超出射程
+dialog_mapr_combat_range                     作战范围
+dialog_mapr_fuel_range                       燃料航程
+dialog_mapr_nukes_in_queue                   *N 枚待发射
+dialog_mapr_nukes_in_flight                  *N 枚飞行中
+dialog_style                                 界面样式
+dialog_style_editor                          样式编辑器
+dialog_style_primary                         主色
+dialog_style_secondary                       辅色
+dialog_style_red                             红
+dialog_style_green                           绿
+dialog_style_blue                            蓝
+dialog_style_alpha                           透明度
+dialog_style_colour_editor                   颜色编辑器 *I *P
+dialog_style_failed_load_style               无法加载样式\n
+dialog_style_style_saved                     样式已保存至\n
+dialog_style_failed_save_style               无法将样式保存至\n
+dialog_style_col_primary                     主色
+dialog_style_col_secondary                   辅色
+dialog_style_col_horiz                       水平
+dialog_style_col_ngtive                      反色
+dialog_style_col_caps                        大写
+dialog_style_col_size                        大小
+dialog_style_col_font                        字体
+tooltip_timeaccel0                           暂停游戏
+tooltip_timeaccel1                           实时速度
+tooltip_timeaccel2                           加速时间\n（5 倍速）
+tooltip_timeaccel3                           加速时间\n（10 倍速）
+tooltip_timeaccel4                           加速时间\n（20 倍速）
+tooltip_worldstatus_x_faster_realtime        *S 倍速
+tooltip_worldstatus_key_shortcut_0           \n快捷键：0\n
+tooltip_worldstatus_key_shortcut_1           \n快捷键：1\n
+tooltip_worldstatus_key_shortcut_2           \n快捷键：2\n
+tooltip_worldstatus_key_shortcut_3           \n快捷键：3\n
+tooltip_worldstatus_key_shortcut_4           \n快捷键：4\n
+tooltip_worldstatus_players_request_speed    请求此速度的玩家：
+tooltip_worldstatus_no_team_request_speed    \n无
+tooltip_worldstatus_cannot_request_speed     无法请求此游戏速度
+tooltip_defcon5                              DEFCON 5\n禁止一切敌对行动\n雷达无法发现敌方单位
+tooltip_defcon4                              DEFCON 4\n雷达开始显示敌方单位
+tooltip_defcon3                              DEFCON 3\n允许海战\n允许空战
+tooltip_defcon2                              DEFCON 2
+tooltip_defcon1                              DEFCON 1\n允许使用核武器
+tooltip_toolbar_whiteboard                   显示或隐藏战术白板
+tooltip_toolbar_whiteboard_disabled          主机版本过旧，无法使用战术白板
+tooltip_toolbar_whiteboard_replay            查看和编辑战术白板
+tooltip_toolbar_radar                        显示或隐藏雷达覆盖范围
+tooltip_toolbar_pop                          显示或隐藏人口密度
+tooltip_toolbar_alliances                    打开联盟窗口
+tooltip_toolbar_units                        打开单位面板
+tooltip_toolbar_score                        打开得分窗口
+tooltip_toolbar_comms                        打开通信窗口
+tooltip_toolbar_orders                       显示或隐藏指令
+tooltip_toolbar_info                         打开单位信息窗口
+tooltip_toolbar_territory                    显示或隐藏领土
+tooltip_toolbar_nukes                        显示携带核弹的单位
+tooltip_toolbar_radiation                    显示或隐藏辐射
+tooltip_whiteboard_planning                  开关战术白板绘图。左键绘制，右键擦除。
+tooltip_whiteboard_eraseall                  清除战术白板上的所有绘图。
+tooltip_whiteboard_showall                   切换显示所有盟友的白板，或仅显示自己的白板。
+tooltip_gameoption_servername                输入希望其他玩家看到的服务器名称。
+tooltip_gameoption_advertiseoninternet       开启后，你的游戏会发布到大厅服务器，其他互联网玩家便可加入。
+tooltip_gameoption_advertiseonlan            开启后，同一局域网中的玩家可以发现你的游戏。
+tooltip_gameoption_maxteams                  本局游戏可容纳的玩家人数上限。
+tooltip_gameoption_territoriesperteam        每名玩家拥有的领土数量。
+tooltip_gameoption_citiesperterritory        每块玩家领土生成的城市数量。
+tooltip_gameoption_populationperterritory    每块领土的人口总数（单位：百万）。\n城市人口会按比例调整。
+tooltip_gameoption_citypopulations           设置人口在各城市间的分布方式。\n\n- 默认：依据现实中的城市人口分布。\n\n- 均等：同一领土内所有城市的人口相同。\n\n- 随机：城市人口随机，但使用固定的标准城市，每局位置不变。\n\n- 完全随机：人口随机，并从数据库中随机选择城市，因此每局城市位置也会变化。
+tooltip_gameoption_randomterritories         开启后，游戏开始时会随机分配领土。\n\n可用来解决谁占欧洲的争论。
+tooltip_gameoption_maxspectators             允许观看游戏的人数上限。\n注意：每名观战者都会消耗服务器带宽。\n\n0 = 不允许观战\n100 = 不限人数。
+tooltip_gameoption_spectatorchatchannel      设置玩家能否阅读观战频道的消息。设为私密可防止观战者向玩家透露情报。\n\n- 公开：所有玩家都能阅读观战者的消息（默认）。\n\n- 私密：只有观战者能阅读观战频道。在此模式下，玩家与观战者无法互相通信。
+tooltip_gameoption_teamswitching             开启后，玩家可在游戏中使用数字键切换所控制的队伍。\n\n正式对局不建议开启！
+tooltip_gameoption_permitdefection           开启后，玩家可在游戏中更换联盟。
+tooltip_gameoption_radarsharing              设置玩家间的雷达共享方式。\n\n- 始终关闭：禁止共享雷达。\n\n- 联盟：盟友自动共享雷达（默认）。\n\n- 自选：每名玩家可选择向任意玩家共享雷达，无论是否为盟友。\n\n- 始终开启：所有玩家共享雷达。适合新手，可随时看见对手的单位。
+tooltip_gameoption_gamespeed                 本局游戏的速度。\n“按最慢请求”采用所有玩家请求中最慢的速度。
+tooltip_gameoption_slowestspeed              本局允许的最低速度。设为“暂停”时，任何玩家都可通过速度工具栏暂停游戏。
+tooltip_gameoption_enableworldevents         开启后，游戏中会发生随机事件。
+tooltip_gameoption_gamemode                  设置本局游戏采用的规则。
+tooltip_gameoption_scoremode                 设置杀敌人数、己方死亡人数和剩余核弹的计分权重。
+tooltip_gameoption_victorytrigger            设置胜利倒计时的触发条件。全球剩余核弹总数低于初始数量的指定百分比时，倒计时开始。\n\n例如：设为 20（默认）时，全球核弹须降至初始数量的 20% 以下才会开始倒计时。
+tooltip_gameoption_victorytimer              胜利倒计时开始后，再经过指定的游戏分钟数，本局便会结束。
+tooltip_gameoption_maxgamerealtime           本局游戏的现实时间上限（分钟）。\n\n0 = 不限现实时间，直到胜利倒计时结束才结束游戏。
+tooltip_gameoption_variableunitcounts        开启部署点数模式。\n每名玩家获得一定点数，可自由购买单位并搭配自己的部队。
+tooltip_gameoption_worldscale                注意：实验性选项。\n\n此数值会增大实际世界规模，从而延长对局。\n\n100 为正常规模。\n\n最高值 200 时，每队的单位数量翻倍，但每个单位的雷达和作战范围减半。\n\n此选项仍处于实验阶段，\n需要较强的 CPU。\n建议关闭单位轨迹显示，以使画面更清晰。
+tooltip_gameoption_permitpausing             开启后，玩家可以在对局中暂停游戏。
+tooltip_gameoption_serverpassword            设置后，只有知道密码的玩家才能加入。\n\n留空则不设置密码。
+tooltip_gamemode_default                     用核弹打击对手的城市来获得分数。\n游戏采用玩家请求中最慢的速度。
+tooltip_gamemode_office_mode                 DEFCON 以无声窗口运行，采用实时速度，最长持续 6 小时。\n老板出现时，连按两次 Esc 即可隐藏窗口。
+tooltip_gamemode_speed_defcon                游戏以最高速度运行，最长持续 15 分钟，禁止暂停。凭直觉出击，体验残酷交锋。
+tooltip_gamemode_diplomacy                   所有玩家开局均属于绿色联盟，并共享雷达。这个联盟能维持多久？\n建议至少 3 名真人玩家参与。
+tooltip_gamemode_bigworld                    世界规模翻倍！每名玩家的单位数量翻倍，但单位大小、雷达范围、武器射程和速度均减半。\n适合喜欢长时间对局的玩家。
+tooltip_gamemode_tournament                  强制使用默认规则，但观战者无法与玩家通信，领土随机分配。
+tooltip_gamemode_custom                      不强制采用特定规则，所有选项均可自由设置。
+tooltip_scoremode_default                    每杀死一名敌方平民得 2 分。\n每失去一名己方平民扣 1 分。
+tooltip_scoremode_survivor                   每名己方领土内的幸存者计 1 分。所有队伍以 100 分开局，分数只会减少。
+tooltip_scoremode_genocide                   每杀死一名敌方平民得 1 分。规则简单，结果残酷。
+tooltip_defection_no                         不允许更换联盟。整个对局中联盟关系保持不变。\n\n你与盟友始终自动停火。
+tooltip_defection_yes                        允许更换联盟。任何玩家都可随时选择加入其他联盟。\n\n你也可以随时开启或结束与盟友的停火。
+tooltip_radarsharing_alwaysoff               禁止雷达共享。你只能看到自己雷达覆盖的区域。
+tooltip_radarsharing_alliance                联盟成员之间共享雷达，你会自动与所有盟友共享雷达情报。\n\n注意：盟友的潜艇只有浮出水面时才会显示。
+tooltip_radarsharing_selective               自选雷达共享。你可以自行决定是否向任何其他玩家共享雷达情报。
+tooltip_radarsharing_alwayson                所有玩家共享雷达，你可以看到游戏中的所有单位。\n\n注意：敌方潜艇只有浮出水面时才会显示。
+tooltip_ceasefire_enable                     你的部队会立即停止向此队伍开火。\n飞往此队伍的核弹会自行解除武装。
+tooltip_ceasefire_disable                    你的部队将此队伍视为敌人，并自动向其开火。
+tooltip_radarshare_enable                    向此队伍共享你的雷达情报，让其看到你所看到的情况。\n注意：你的潜艇在潜航时仍然隐藏。
+tooltip_radarshare_disable                   停止向此队伍共享雷达情报。对方将无法再看到你的雷达所探测到的情况。
+tooltip_place_silo                           部署导弹发射井
+tooltip_place_radar                          部署雷达站
+tooltip_place_airbase                        部署空军基地
+tooltip_place_battleship                     向舰队添加战列舰
+tooltip_place_sub                            向舰队添加潜艇
+tooltip_place_carrier                        向舰队添加航空母舰
+tooltip_place_unit                           在此部署单位
+tooltip_place_fleet                          在此部署舰队
+tooltip_fleet_button                         组建舰队
+tooltip_fleet_remove                         将此单位移出舰队
+tooltip_fleet_place                          部署此舰队
+tooltip_territory_northamerica               北美洲
+tooltip_territory_southamerica               南美洲
+tooltip_territory_europe                     欧洲
+tooltip_territory_russia                     俄罗斯
+tooltip_territory_southasia                  南亚
+tooltip_territory_africa                     非洲
+tooltip_lobby_teamname                       输入队伍名称
+tooltip_lobby_territories                    选择队伍的领土
+tooltip_lobby_alliance                       选择要加入的联盟
+tooltip_lobby_requestteam                    创建由你控制的队伍
+tooltip_lobby_requestai                      创建由电脑控制的队伍
+tooltip_lobby_ready                          准备就绪。所有玩家准备后开始游戏。
+tooltip_lobby_ready_disable                  游戏名称无效
+tooltip_lobby_chat                           打开聊天窗口
+tooltip_lobby_aggression                     调整电脑玩家的进攻倾向，最高为 10。\n0 表示随机进攻倾向。
+tooltip_lobby_demo_max_player                你正在使用试玩版，游戏无法容纳这么多玩家。
+tooltip_lobby_click_open_slot                点击开放此席位，允许更多玩家加入
+tooltip_lobby_click_close_slot               点击关闭此席位，阻止玩家加入
+tooltip_lobby_address_port                   IP：*I\n端口：*P
+tooltip_chat_public                          公共频道。所有玩家都能看到这里的消息。
+tooltip_chat_alliance                        联盟频道。只有你的盟友能看到这里的消息。
+tooltip_chat_spectators                      观战频道。观战者只能在此频道发言。
+tooltip_alliance_join                        发送加入此联盟的申请
+tooltip_alliance_leave                       离开此联盟
+tooltip_alliance_kick                        发起投票，将此成员移出联盟
+tooltip_vote_yes                             投赞成票
+tooltip_vote_no                              投反对票
+tooltip_vote_abstain                         本次投票弃权
+tooltip_lmb                                  [LMB]
+tooltip_rmb                                  [RMB]
+tooltip_placeobject                          [LMB] 部署单位
+tooltip_placefleet                           [LMB] 部署舰队
+tooltip_invalidplacement                     无法部署在此处
+tooltip_spacetocancel                        按空格键取消
+tooltip_selectobject                         [LMB] 选择单位
+tooltip_selectfleet                          [LMB] 选择舰队
+tooltip_setobjectstate                       [RMB] 切换单位模式
+tooltip_enemyunit                            （敌方单位）
+tooltip_attack                               [LMB] 攻击此单位
+tooltip_moveobject                           [RMB] 移动单位至此处
+tooltip_movefleet                            [RMB] 移动舰队至此处
+tooltip_cantmovehere                         无法移动至此处
+tooltip_spawnfighter                         [LMB] 向此处派出战斗机
+tooltip_spawnbomber                          [LMB] 向此处派出轰炸机
+tooltip_spawnnuke                            [LMB] 向此处发射核弹
+tooltip_spacetodeselect                      按空格键取消选择
+tooltip_landobject                           [LMB] 在此降落飞机
+tooltip_controls_sidescrolling               鼠标移到屏幕边缘时移动视角。
+tooltip_controls_zoomspeed                   调整鼠标和触控板缩放的灵敏度。
+tooltip_controls_zoomfollowmouse             开启后，缩放时保持光标下的地图位置不变；关闭后，以当前视野中心缩放。
+tooltip_controls_camdragging                 按住鼠标中键拖动视角。
+tooltip_controls_keyboardlayout              更改键盘输入布局。
+tooltip_controls_panickey                    连按两次 Esc 隐藏窗口。
+tooltip_interface_size                       调整界面大小。“自适应缩放”随分辨率调整；固定百分比保持稳定的界面尺寸。
+tooltip_interface_show_fps                   显示或隐藏帧率计数器。
+tooltip_interface_tooltips                   显示或隐藏界面提示。
+tooltip_interface_language                   菜单和游戏文本的显示语言。
+tooltip_interface_mouse                      选择使用硬件或软件绘制鼠标光标。
+tooltip_interface_mouse_size                 调整软件光标和白板画笔提示的大小。
+tooltip_close_window                         关闭窗口
+tooltip_demo_exit_the_game                   退出游戏
+tooltip_server_browser_game_time             游戏时间：
+tooltip_server_browser_game_has_ended        \n游戏已结束
+tooltip_server_browser_game_started          已开始
+tooltip_server_browser_not_yet_started       尚未开始
+tooltip_server_browser_teams                 \n队伍：
+tooltip_server_browser_spectator             \n观战者：
+tooltip_server_browser_game_mode             \n游戏模式：
+tooltip_server_browser_score_mode            \n计分方式：
+tooltip_server_browser_mod                   \n模组：
+tooltip_server_browser_right_click_details   \n（右键查看详情）
+gameoption_PlayerName                        新玩家
+gameoption_ServerName                        服务器名称
+gameoption_New_Game_Server                   新游戏服务器
+gameoption_AdvertiseOnInternet               发布到互联网
+gameoption_Disabled                          关闭
+gameoption_Enabled                           开启
+gameoption_AdvertiseOnLAN                    发布到局域网
+gameoption_GameMode                          游戏模式
+gameoption_Default                           默认
+gameoption_Office_Mode                       办公室模式
+gameoption_Speed_Defcon                      极速核战
+gameoption_Diplomacy                         外交模式
+gameoption_BigWorld                          大世界
+gameoption_Tournament                        锦标赛
+gameoption_Custom                            自定义
+gameoption_MaxTeams                          玩家人数上限
+gameoption_TerritoriesPerTeam                每队领土数
+gameoption_CitiesPerTerritory                每块领土城市数
+gameoption_PopulationPerTerritory            每块领土人口
+gameoption_CityPopulations                   城市人口分布
+gameoption_Equalised                         均等
+gameoption_Random                            随机
+gameoption_TotallyRandom                     完全随机
+gameoption_RandomTerritories                 随机领土
+gameoption_PermitDefection                   允许更换联盟
+gameoption_No                                否
+gameoption_Yes                               是
+gameoption_RadarSharing                      雷达共享
+gameoption_AlwaysOff                         始终关闭
+gameoption_Alliance                          联盟
+gameoption_Selective                         自选
+gameoption_AlwaysOn                          始终开启
+gameoption_GameSpeed                         游戏速度
+gameoption_Slowest_Requested                 按最慢请求
+gameoption_Pause                             暂停
+gameoption_Real_Time                         实时
+gameoption_5x_Real_Time                      5 倍速
+gameoption_10x_Real_Time                     10 倍速
+gameoption_20x_Real_Time                     20 倍速
+gameoption_SlowestSpeed                      最低速度
+gameoption_ScoreMode                         计分方式
+gameoption_Survivor                          幸存者
+gameoption_Genocide                          灭绝
+gameoption_VictoryTrigger                    倒计时触发阈值
+gameoption_VictoryTimer                      胜利倒计时
+gameoption_MaxGameRealTime                   现实时间上限
+gameoption_VariableUnitCounts                自由配置单位
+gameoption_WorldScale                        世界规模
+gameoption_MaxSpectators                     观战人数上限
+gameoption_SpectatorChatChannel              观战频道
+gameoption_Private                           私密
+gameoption_Public                            公开
+gameoption_TeamSwitching                     切换控制队伍
+gameoption_ServerPassword                    服务器密码
+style_WindowBackground                       窗口背景
+style_WindowTitleBar                         窗口标题栏
+style_WindowOuterBorder                      窗口外边框
+style_WindowInnerBorder                      窗口内边框
+style_ButtonBackground                       按钮背景
+style_ButtonHighlighted                      按钮悬停
+style_ButtonClicked                          按钮按下
+style_ButtonBorder                           按钮边框
+style_BoxBackground                          面板背景
+style_BoxBorder                              面板边框
+style_InputBackground                        输入框背景
+style_InputBorder                            输入框边框
+style_FontWindowTitle                        窗口标题字体
+style_FontButton                             按钮字体
+style_WorldCoastlines                        地图海岸线
+style_WorldBorders                           地图国界
+style_WorldWater                             地图海洋
+style_WorldLand                              地图陆地
+style_GlobeCoastlines                        地球海岸线
+style_GlobeBorders                           地球国界
+style_GlobeGridlines                         地球经纬网
+style_TooltipBackground                      提示框背景
+style_TooltipBorder                          提示框边框
+style_FontTooltip                            提示框字体
+style_PopupBackground                        弹出菜单背景
+style_PopupTitleBar                          弹出菜单标题栏
+style_PopupBorder                            弹出菜单边框
+style_PopupHighlight                         弹出菜单悬停
+style_PopupSelection                         弹出菜单选中项
+style_FontPopupTitle                         弹出菜单标题字体
+style_FontPopup                              弹出菜单字体
+unit_silo                                    导弹发射井
+unit_nuke                                    核弹
+unit_city                                    城市
+unit_sub                                     潜艇
+unit_radar                                   雷达站
+unit_battleship                              战列舰
+unit_airbase                                 空军基地
+unit_fighter                                 战斗机
+unit_bomber                                  轰炸机
+unit_carrier                                 航空母舰
+unit_tornado                                 龙卷风
+unit_saucer                                  外星飞船
+unit_explosion                               爆炸
+state_preparing                              正在准备
+state_prepare                                准备
+state_ready                                  已就绪：
+state_fighterlaunch                          战斗机起飞
+state_bomberlaunch                           轰炸机起飞
+state_attack                                 攻击
+state_flight                                 飞行
+state_bombernuke                             短程弹道导弹发射
+state_airtoseamissile                        海战
+state_antisub                                反潜
+state_ontarget                               抵达目标
+state_disarm                                 解除武装
+state_radar                                  扫描
+state_silonuke                               洲际弹道导弹发射
+state_airdefense                             防空
+state_passivesonar                           被动声呐
+state_activesonar                            主动声呐
+state_subnuke                                中程弹道导弹发射
+message_fuel                                 燃料耗尽
+message_tornadodeath                         龙卷风已消散
+message_nukelaunch                           探测到核弹发射
+message_multilaunch                          探测到多枚核弹发射
+message_firstlaunch                          探测到 *T 发射核弹
+message_incursion                            禁止进入敌方领土
+message_destroyed                            *U 已被摧毁
+message_directhit                            *C 遭到打击，*D 百万人死亡
+message_fallout                              *C 遭受放射性沉降，*D 百万人死亡
+details_fuel                                 燃料
+message_victory                              *T 获胜
+message_stalemate                            无明确胜者
+message_spectators_chat_players              观战者现在可以与玩家聊天
+message_placeunits                           必须在 DEFCON 3 之前部署所有单位
+message_fleet_move                           舰队无法移动至此处
+message_disarmed                             导弹已解除武装
+message_alliance_join                        *P 加入了 *N 联盟
+message_alliance_kicked                      *P 被移出了 *N 联盟
+message_alliance_leave                       *P 离开了 *N 联盟
+message_invalid_action                       尚未进入 DEFCON *D
+message_ten_minute_warning                   十分钟警告
+message_victory_timer                        胜利倒计时已开始
+tray_icon_caption                            DEFCON
+tray_icon_open                               打开
+tray_icon_close                              关闭
+tray_icon_ten_minute_warning                 十分钟警告
+tray_icon_victory_timer                      胜利倒计时已开始
+tray_icon_nuke_launches_detected             探测到核弹发射
+tray_icon_enemy_subs_detected                探测到敌方潜艇
+odds_zero                                    命中概率：零
+odds_vlow                                    命中概率：极低
+odds_low                                     命中概率：低
+odds_med                                     命中概率：中等
+odds_high                                    命中概率：高
+odds_vhigh                                   命中概率：极高
+unknown                                      未知
+officemode_1                                 办公室模式将覆盖所选的
+officemode_2                                 速度和显示设置。
+alien_attack                                 *C 被外星人袭击摧毁
+alien_invasion                               外星人入侵！
+tornado_warning                              龙卷风警报
+tutorial                                     教程
+levelselect                                  选择章节
+tutorial_clicknext                           点击“下一步”
+tutorial_restart_mission                     重新开始任务
+tutorial_missioncomplete                     任务完成
+tutorial_missionfailed                       任务失败
+tutorial_mission                             任务 *X
+tutorial_team_name_cpu                       敌方电脑
+tutorial_team_name_player                    玩家
+tutorial_restart                             重新开始
+tutorial_next                                下一步
+tutorial_chapter_desc                        第 *C 章，共 7 章 - *N
+tutorial_level                               第 *L 关
+tutorial_levelname_1                         发射核武器
+tutorial_levelname_2                         防空
+tutorial_levelname_3                         雷达覆盖
+tutorial_levelname_4                         侦察与轰炸
+tutorial_levelname_5                         海上舰队
+tutorial_levelname_6                         潜艇
+tutorial_levelname_7                         全球热核战争
+tutorial_popup                               教程提示
+tutorial_clicknext_popup                     点击“下一步”继续。
+tutorial_start                               欢迎来到 DEFCON 教程。\n\n本教程将介绍有效指挥部队所需的全部基础知识。\n\n点击“下一步”继续。
+tutorial_movecamera                          开始之前，先学习如何控制视角。\n\n将鼠标移向屏幕边缘，视角便会向该方向移动。\n\n也可以使用 W、A、S、D 键移动视角。
+tutorial_zoomcamera                          滚动鼠标滚轮可放大或缩小画面。\n\n也可以使用 Q 和 E 键。
+tutorial_movecamera2                         你还可以按住鼠标中键拖动视角。\n\n熟悉视角操作后，点击“下一步”，开始学习如何摧毁目标。
+tutorial_silofocus                           高亮的单位是一座导弹发射井，具有两种模式：\n\n- 洲际弹道导弹发射模式：向敌方目标发射核弹。\n\n- 防空模式：拦截敌方核弹和飞机。\n\n我们需要切换到洲际弹道导弹发射模式，以摧毁附近的敌方雷达站。\n\n右键点击发射井，切换到洲际弹道导弹发射模式。
+macosx_tutorial_silofocus                    高亮的单位是一座导弹发射井，具有两种模式：\n\n- 洲际弹道导弹发射模式：向敌方目标发射核弹。\n- 防空模式：拦截敌方核弹和飞机。\n\n我们需要切换到洲际弹道导弹发射模式，以摧毁附近的敌方雷达站。\n\n右键点击发射井，切换到洲际弹道导弹发射模式。\n（使用单键鼠标时，可按住 Ctrl 点击。）
+tutorial_mission1destroyradar                发射井准备发射核弹时，图标会变成三角形。\n\n使用发射井摧毁敌方雷达站。
+tutorial_mission1end                         任务 1 完成。\n\n点击“下一步”进入任务 2。
+tutorial_mission1failed                      你的核弹已耗尽，却未能摧毁所有目标，任务失败。\n\n点击“重新开始”再试一次。
+tutorial_silofocus_popup1                    右键点击此发射井，切换到洲际弹道导弹发射模式。
+macosx_tutorial_silofocus_popup1             右键点击此发射井，切换到洲际弹道导弹发射模式。\n（使用单键鼠标时，可按住 Ctrl 点击。）
+tutorial_silofocus_selectpopup               左键点击此发射井以选中它。
+tutorial_mission1destroyradar_popup          左键点击此敌方雷达站，向它发射核弹。
+tutorial_mission1deselect_popup              按空格键取消选择此单位。
+tutorial_mission2start                       每局 DEFCON 的首要任务都是部署全部单位。\n\n打开单位面板，开始部署。
+tutorial_m2selectsilo                        你可以通过此面板部署所有可用单位。本任务中只有导弹发射井。\n\n必须在进入 DEFCON 3 之前部署全部单位。\n\n点击发射井图标，开始部署。
+tutorial_m2placesilos                        绿色区域是你的领土。\n\n单位只能部署在己方领土内，地面单位一旦部署便无法移动。\n\n地面单位之间必须保持一定间距。\n\n将发射井部署在城市附近，为城市提供防空保护。
+tutorial_m2destroynukes                      敌方潜艇已向你的城市发射核弹！\n\n你的发射井已处于防空模式，将拦截来袭核弹。\n\n防空模式下的发射井能有效拦截核弹。
+tutorial_m2end                               任务 2 完成。\n\n点击“下一步”进入任务 3。
+tutorial_mission2failed                      一枚核弹击中了你的城市！\n\n下次请将发射井部署在城市附近，让它们有更多时间拦截来袭核弹。\n\n点击“重新开始”再试一次。
+tutorial_unitpanel_popup                     点击此按钮打开单位面板。
+tutorial_silo_popup                          点击此单位图标，开始部署发射井。
+tutorial_silo_place                          左键点击此区域，在主要城市附近部署发射井。
+tutorial_mission3start                       DEFCON 中每个单位都有雷达探测范围。只有位于己方雷达覆盖范围内的敌方单位才会显示。\n\n俄罗斯境内有几个敌方单位等待你发现。\n\n部署雷达站以探测敌方单位。
+tutorial_m3radarplacement                    尽量将雷达站部署在靠近俄罗斯的位置。\n\n每部署一座雷达站，可见区域都会扩大，并显露其中的敌方单位。
+tutorial_m3siloplacement                     现在你已经能看到敌方单位。\n\n在己方领土部署一些发射井，以摧毁敌人。
+tutorial_m3gamespeed                         我们需要核武器来摧毁敌方设施，但只有进入 DEFCON 1 后才能使用。\n\n点击速度控制按钮加速时间，直到进入 DEFCON 1。
+tutorial_m3defcon1                           许多单位只有达到特定警戒等级后才能参与战斗。\n\n海战和空战在进入 DEFCON 3 后才会开放。\n\n核武器只有进入 DEFCON 1 后才能使用。\n\n加速时间，直到进入 DEFCON 1。
+tutorial_m3destroyenemy                      现在可以使用发射井向敌方设施发射核弹。\n\n敌方也有一座处于防空模式的发射井，会拦截许多来袭导弹。此外，它经过加固，需要 3 次核弹直接命中才能摧毁。\n\n让所有发射井同时攻击敌方发射井，以突破防御。
+tutorial_m3silostaketime                     发射井在防空和洲际弹道导弹发射模式之间切换需要较长时间。将鼠标悬停在发射井上，可查看剩余等待时间。\n\n必要时可以加速时间。\n\n继续向敌方设施发射核弹，直到将其全部摧毁。
+tutorial_m3end                               任务 3 完成。\n\n点击“下一步”进入任务 4。
+tutorial_mission3failed1                     你已部署全部雷达站，但未发现所有敌方单位。\n\n任务失败。\n\n点击“重新开始”再试一次。
+tutorial_mission3failed2                     核弹已耗尽，但敌方设施尚未全部摧毁。\n\n点击“重新开始”再试一次。
+tutorial_radar_popup                         点击此单位图标，开始部署雷达站。
+tutorial_radar_place                         左键点击此区域，在敌方领土附近部署雷达站。
+tutorial_acceltime_popup                     点击速度按钮加速时间，直到进入 DEFCON 1。
+tutorial_silosnuke_popup                     右键点击此发射井，切换到洲际弹道导弹发射模式。
+macosx_tutorial_silosnuke_popup              右键点击此发射井，切换到洲际弹道导弹发射模式。\n使用单键鼠标时，可按住 Ctrl 点击。
+tutorial_nukenemeysilo_popup                 多次左键点击此发射井，为它排队安排多次核弹打击。它会拦截许多核弹，且需要 3 次直接命中才能摧毁。
+tutorial_nukeenemyairbase_popup              向此敌方空军基地发射几枚核弹。
+tutorial_nukenemeycities_popup               可以将剩余核弹用于打击敌方城市中的平民。
+tutorial_mission4start                       敌方单位常常位于你的雷达覆盖范围之外。你需要派飞机飞越敌方领土进行侦察。\n\n在己方领土部署一些空军基地。
+tutorial_m4launchfighters                    空军基地可派出两类飞机：\n- 战斗机：短航程作战和侦察飞机。\n- 轰炸机：携带一枚核弹的长航程飞机。\n\n战斗机速度快、航程短，擅长击落敌机，也非常适合侦察。\n\n派战斗机飞越敌方领土，寻找目标。
+tutorial_m4radar                             每架战斗机都配备短程雷达，飞得足够近便能发现敌方设施。\n\n开启雷达视图，查看己方雷达覆盖范围。
+tutorial_m4launchbombers                     你的战斗机已发现所有敌方设施。\n\n设施离开你的雷达覆盖范围后会变成灰色，这种保留的最后已知位置称为雷达残影。\n\n现在使用轰炸机以核弹打击这些目标。\n\n从空军基地派出轰炸机攻击敌方设施。
+tutorial_m4bomberinfo                        轰炸机航程很远，但必须接近目标才能攻击，因为它只携带一枚短程核弹。\n\n进入目标射程后，轰炸机会自动发射核弹。
+tutorial_m4nukeslaunched                     轰炸机发射核弹后，会自动返回最近的空军基地降落。\n\n降落后会重新装载一枚核弹，但基地可用于补给的核弹数量有限。\n\n将鼠标悬停在空军基地上，即可查看可用飞机和核弹数量。
+tutorial_m4end                               任务 4 完成。\n\n点击“下一步”进入任务 5。
+tutorial_mission4failed                      核弹已耗尽，但敌人尚未被消灭，任务失败。\n\n点击“重新开始”再试一次。
+tutorial_selectairbase_popup                 点击此单位图标，开始部署空军基地。
+tutorial_placeairbase_popup                  左键点击此区域，部署空军基地。
+tutorial_clickairbase_popup                  左键点击此空军基地，开始派出战斗机。
+tutorial_scouthere_popup                     多次左键点击此区域，排队安排多架战斗机出动。
+tutorial_radartoolbar_popup                  开启此工具栏按钮，显示雷达覆盖范围。
+tutorial_switchtobombers_popup               右键点击此空军基地，切换到轰炸机模式。
+macosx_tutorial_switchtobombers_popup        右键点击此空军基地，切换到轰炸机模式。\n使用单键鼠标时，可按住 Ctrl 点击。
+tutorial_clickairbasebomber_popup            左键点击此空军基地，开始派出轰炸机。
+tutorial_nukebuilding_popup                  派几架轰炸机攻击此敌方设施。
+tutorial_mission5start                       你的机动部队中有许多舰艇，它们以舰队的形式行动。\n\n每支舰队最多包含 6 艘舰艇，统一移动和作战。\n\n打开单位面板，点击舰队按钮，开始部署舰队。
+tutorial_m5createfleet                       这是舰队组建面板。点击单位按钮可将对应舰艇加入舰队。\n\n- 战列舰能有效对抗多种敌方单位，但容易遭到潜艇攻击。\n- 航空母舰相当于移动空军基地，可派出战斗机和轰炸机，也可投放深水炸弹攻击敌方潜艇。\n- 潜艇不被常规雷达探测，携带中程核弹。\n\n组建一支由 3 艘战列舰和 3 艘航空母舰组成的舰队。
+tutorial_m5battleshipinfo                    舰队作为一个整体接受指挥。下达移动命令时，所有舰艇一起移动；攻击敌方舰队时，各舰会尽力协同作战。\n\n左键点击舰队中的任意一艘舰艇，选中整支舰队。\n\n然后右键点击南方的目的地，命令舰队向南移动。
+macosx_tutorial_m5battleshipinfo             舰队作为一个整体接受指挥。下达移动命令时，所有舰艇一起移动；攻击敌方舰队时，各舰会尽力协同作战。\n\n左键点击舰队中的任意一艘舰艇，选中整支舰队。\n\n然后右键点击南方的目的地，命令舰队向南移动；也可按住 Ctrl 点击。
+tutorial_m5destroyenemy                      大西洋中某处有两支敌方舰队，使用你的舰队找到并摧毁它们。\n\n- 左键点击舰队中的任意舰艇，选中整支舰队。\n- 右键点击目的地，命令选中的舰队移动。\n\n必要时可以加速时间。
+macosx_tutorial_m5destroyenemy               大西洋中某处有两支敌方舰队，使用你的舰队找到并摧毁它们。\n\n- 左键点击舰队中的任意舰艇，选中整支舰队。\n- 右键点击目的地，命令选中的舰队移动；也可按住 Ctrl 点击。\n\n必要时可以加速时间。
+tutorial_m5destroyenemy2                     敌舰进入射程后，你的舰队会自动交战。战列舰会开火，航空母舰会按需派出战斗机。\n\n也可以手动指挥战斗。例如，左键选中一艘航空母舰，再左键点击敌舰，便可派战斗机攻击它。\n\n开启工具栏中的“指令”按钮，查看舰队当前的攻击指令。
+tutorial_m5end                               任务 5 完成。点击“下一步”进入任务 6。
+tutorial_mission5failed                      你的舰艇已全部损失，但敌人尚未被消灭，任务失败。\n\n点击“重新开始”再试一次。
+tutorial_selectfleet_popup                   点击此图标，开始部署舰队。
+tutorial_addbattleship_popup                 点击此单位图标，将一艘战列舰加入舰队。
+tutorial_addcarrier_popup                    点击此单位图标，将一艘航空母舰加入舰队。
+tutorial_deployfleet_popup                   左键点击此区域，部署舰队。
+tutorial_selectdeployedfleet_popup           左键点击任意舰艇，选中整支舰队。
+tutorial_movefleet_popup                     右键点击此处，将选中的整支舰队移动至此。
+macosx_tutorial_movefleet_popup              右键点击此处，将选中的整支舰队移动至此。使用单键鼠标时，可按住 Ctrl 点击。
+tutorial_destroyfleet_popup                  摧毁此区域的敌方舰队。
+tutorial_orderstoolbar_popup                 开启此工具栏按钮，显示指令。
+tutorial_mission6start                       此前我们一直以欧洲为基地，对抗苏联。但并非每局游戏都是如此。\n\n本任务中，你的领土是北美洲，敌人位于南亚。\n\n开启“领土”按钮，查看各方控制的地图区域。
+tutorial_mission6subintro                    本任务中，太平洋是关键战场。敌人在美国西海岸外部署了多艘核潜艇，可以攻击我们的许多主要城市。\n\n对付潜艇的最佳武器是航空母舰：它能用声呐定位水下潜艇，再投放深水炸弹将其击沉。\n\n在西海岸外部署一支航空母舰舰队。
+tutorial_mission6placesubs                   我们也将使用自己的潜艇摧毁中国东海岸，实施反击。\n\n组建潜艇舰队，并尽量部署在靠近中国东部的位置。
+tutorial_m6subinfo                           潜艇携带大量中程核弹。\n\n关键在于：潜艇只有浮出水面时才会出现在敌方雷达上。因此潜航时可保持隐蔽，免受常规武器攻击。\n\n让潜艇尽量靠近敌方海岸，准备造成以百万计的伤亡。
+tutorial_m6destroysubs                       美国西海岸外隐藏着两支敌方潜艇舰队。\n\n将部分航空母舰切换到反潜模式，使用深水炸弹击沉敌方潜艇。\n\n航空母舰的深水炸弹数量不限。\n必要时可以加速时间。
+tutorial_m6movesubs                          潜艇能悄悄逼近敌方海岸，在对方几乎毫无预警的情况下发动毁灭性打击。\n\n将潜艇移动到可攻击中国东部的位置。
+tutorial_m6enemylaunch                       敌方地面发射井开始向我们的城市发射核弹！\n\n使用附近的潜艇，在敌方造成过多损失之前摧毁其发射井。\n\n将潜艇切换到中程弹道导弹发射模式，摧毁敌方发射井！
+tutorial_m6launchexplanation                 虽然我们没有覆盖该区域的雷达，仍然能看到敌方发射井。\n\n这是因为发射井发射核弹时，会向所有玩家暴露位置。\n\n发射模式下的发射井无法进行防空，正是发动打击的好机会。\n\n摧毁发射井后，敌方将失去防空保护。随后攻击其城市，实施全面反击！
+tutorial_m6end                               任务 6 完成。点击“下一步”进入最后一项训练任务。
+tutorial_territorytoolbar_popup              开启此工具栏按钮，显示各玩家的领土。
+tutorial_addsub_popup                        点击此单位图标，将一艘潜艇加入舰队。
+tutorial_movesubs_popup                      右键点击此处，将潜艇移动到可攻击中国东部的位置。
+macosx_tutorial_movesubs_popup               右键点击此处，将潜艇移动到可攻击中国东部的位置。\n使用单键鼠标时，可按住 Ctrl 点击。
+tutorial_switchtodepth_popup                 右键点击此航空母舰，切换到反潜模式。
+macosx_tutorial_switchtodepth_popup          右键点击此航空母舰，切换到反潜模式。\n使用单键鼠标时，可按住 Ctrl 点击。
+tutorial_destroysubs_popup                   将航空母舰移动至此，摧毁此区域的敌方潜艇。
+tutorial_substonuke_popup                    右键点击此潜艇，切换到中程弹道导弹发射模式。
+macosx_tutorial_substonuke_popup             右键点击此潜艇，切换到中程弹道导弹发射模式。\n使用单键鼠标时，可按住 Ctrl 点击。
+tutorial_nukesilo_popup                      多次左键点击此发射井，命令潜艇向它发射核弹。
+tutorial_mission7start                       这是最后一项训练任务。你需要运用学到的一切，与电脑对手进行一场真正的战斗。\n\n用核弹攻击敌方城市，使得分超过对手即可获胜。每杀死一名敌方平民得 2 分，每失去一名己方平民扣 1 分。\n\n本局你控制北美洲，敌人位于南亚。
+tutorial_mission7enemyattack                 敌人正在向你发射导弹！\n\n如果中国海岸附近有你的潜艇或航空母舰，趁敌方发射井无法防空时将其摧毁。\n\n让己方地面发射井保持防空模式，拦截来袭核弹。
+tutorial_mission7retaliate                   敌人已经发射了大部分导弹。\n\n使用地面发射井及剩余核弹，对中国的敌方城市发动全面反击！
+tutorial_m7victory                           恭喜！你已击败电脑对手，完成 DEFCON 教程！
+tutorial_mission7failed                      你被电脑对手击败，任务失败。\n\n提示：\n- 尽量让潜艇逼近敌方海岸，在对方发射过多核弹之前摧毁其发射井。\n使用航空母舰，在敌方潜艇发动攻击之前找到并摧毁它们。\n\n点击“重新开始”再试一次。
+tutorial_showterritory_popup                 开启此按钮，查看敌方领土的位置。
+tutorial_m7placeradar_popup                  敌人将从中国东海岸方向来袭。沿己方西海岸部署雷达站，以扩大探测范围。
+tutorial_m7placesilos_popup                  部署发射井，保护主要城市；它们将是敌人的首要目标。
+tutorial_m7placeairbases_popup               沿美国西海岸部署空军基地，用来攻击并摧毁抵近海岸的敌舰。
+tutorial_placefleetspacific_popup            敌人会派舰艇横跨太平洋进攻。将大部分舰队部署在太平洋，拦截敌军。
+tutorial_m7fleettarget_popup                 尽量让舰队驶向中国东海岸，以便近距离打击。\n左键点击选中整支舰队。\n右键点击移动整支舰队。
+macosx_tutorial_m7fleettarget_popup          尽量让舰队驶向中国东海岸，以便近距离打击。\n左键点击选中整支舰队。\n右键点击或按住 Ctrl 点击，移动整支舰队。
+tutorial_m7scoutchina_popuup                 从附近的航空母舰派出战斗机，侦察敌方地面设施。
+tutorial_m7enemysubs_popup                   敌方潜艇正在向你的城市发射核弹！从附近空军基地派出战斗机和轰炸机，摧毁它们！
+unitinfo_title                               单位信息
+unitinfo_title2                              （未选择单位）
+unitinfo_fighter                             速度快、航程短的作战飞机。\n+ 擅长对付轰炸机\n+ 适合侦察\n- 容易被战列舰或发射井击落
+unitinfo_silo                                兼具核弹发射和防空功能。\n+ 携带大量远程核弹\n+ 防空火力强\n+ 经过加固，可承受核弹打击\n- 发射核弹会向所有玩家暴露位置\n- 模式切换缓慢
+unitinfo_radar                               为己方领土提供雷达覆盖。\n+ 雷达探测范围最远\n- 容易被核弹摧毁
+unitinfo_bomber                              用途广泛的长航程飞机。\n+ 携带一枚短程核弹\n+ 发射核弹不会触发敌方雷达的发射警报\n+ 擅长攻击舰艇\n- 容易被战斗机击落\n- 飞行速度慢
+unitinfo_battleship                          武器威力大、射速快的重型战舰。\n+ 能有效对付多种目标\n- 易受潜艇和轰炸机攻击
+unitinfo_sub                                 携带核弹的强大隐蔽单位。\n+ 不被常规雷达探测\n+ 携带大量中程核弹\n- 浮出水面时极易遭受攻击\n- 发射核弹会向所有玩家暴露位置\n- 易受深水炸弹攻击\n- 无雷达探测能力
+unitinfo_carrier                             可搭载飞机的机动舰艇。\n+ 可派出战斗机和轰炸机\n+ 可投放深水炸弹攻击潜艇\n- 无法直接进行自卫
+unitinfo_nuke                                大当量核弹头。\n+ 破坏力极强\n- 可被防空火力拦截
+unitinfo_airbase                             战斗机和轰炸机的起降基地。\n+ 配有大量轰炸机\n+ 随时间补充战斗机\n- 容易被核弹摧毁
+demo_top1                                    立即购买，体验完整的 DEFCON
+demo_middle1                                 不受试玩人数限制：六人核战混战！
+demo_middle2                                 还可体验多种游戏模式：
+demo_middle3                                 办公室模式：以实时速度游玩，贯穿一整天
+demo_middle4                                 极速核战：15 分钟内决出胜负，凭直觉展开残酷交锋
+demo_middle5                                 外交模式：所有玩家同属一个联盟，它能维持多久？
+demo_middle6                                 大世界：世界规模翻倍，适合喜欢长时间对局的玩家
+demo_bottom1                                 只需以下价格，即可立即激活
+demo_bottom2                                 £10     $17.50     €14
+demo_bottom1_steam                           只需以下价格，即可立即激活
+demo_bottom2_steam                           $14.95
+demo_bottom1_retail                          今天就购买 DEFCON 完整版
+demo_bottom2_retail                          前往你喜爱的 PC 游戏零售商
+demo_bottom1_retail_uk                       今天就购买 DEFCON 完整版
+demo_bottom2_retail_uk                       前往你喜爱的 PC 游戏零售商
+demo_bottom1_macosx                          只需以下价格，即可立即激活
+demo_bottom2_macosx                          $25.00
+overlay_0_1                                  --------------------------
+overlay_0_2                                  -       D E F C O N
+overlay_0_3                                  --------------------------
+overlay_0_4                                  -主创
+overlay_0_5                                  CHRIS DELAY
+overlay_0_6                                  GARY CHAMBERS\n
+overlay_0_7                                  -声音设计
+overlay_0_8                                  -与制作
+overlay_0_9                                  ALISTAIR LINDSAY
+overlay_0_10                                 MICHAEL MAIDMENT\n
+overlay_0_11                                 -出品
+overlay_0_12                                 -INTROVERSION SOFTWARE
+overlay_0_13                                 MARK MORRIS
+overlay_0_14                                 THOMAS ARUNDEL
+overlay_0_15                                 CHRIS DELAY
+overlay_0_16                                 JOHN KNOTTENBELT\n
+overlay_0_17                                 -公关与市场推广
+overlay_0_18                                 VICTORIA ARUNDEL\n
+overlay_0_19                                 -附加平面设计
+overlay_0_20                                 MORTEN ELGAARD PEDERSEN\n
+overlay_0_21                                 -发行配送
+overlay_0_22                                 WILL MORRIS\n
+overlay_0_23                                 -附加开发
+overlay_0_24                                 FRANCOIS GAGNE
+overlay_1_1                                  ------------------------------------------
+overlay_1_2                                  -I N T R O V E R S I O N   S O F T W A R E
+overlay_1_3                                  ------------------------------------------\n
+overlay_1_4                                  MARK MORRIS                      董事
+overlay_1_5                                  THOMAS ARUNDEL                   董事
+overlay_1_6                                  CHRIS DELAY                      董事
+overlay_1_7                                  JOHN KNOTTENBELT                 董事\n
+overlay_1_8                                  GARY CHAMBERS                    开发
+overlay_1_9                                  VICTORIA ARUNDEL                 公关与市场推广
+overlay_1_10                                 WILL MORRIS                      发行配送
+overlay_2_1                                  ----------------------
+overlay_2_2                                  -可用模拟项目
+overlay_2_3                                  ----------------------\n
+overlay_2_4                                  福尔肯迷宫
+overlay_2_5                                  二十一点
+overlay_2_6                                  金拉米牌
+overlay_2_7                                  红心大战
+overlay_2_8                                  桥牌
+overlay_2_9                                  西洋跳棋
+overlay_2_10                                 国际象棋
+overlay_2_11                                 扑克
+overlay_2_12                                 战斗机空战
+overlay_2_13                                 游击战
+overlay_2_14                                 沙漠战争
+overlay_2_15                                 空对地作战
+overlay_2_16                                 战区战术战争
+overlay_2_17                                 战区生物与化学战争\n
+overlay_2_18                                 全球热核战争
+overlay_3_1                                  -----------------------------------
+overlay_3_2                                  -平民目标：预计死亡人数（百万）
+overlay_3_3                                  -----------------------------------\n
+overlay_3_4                                  洛杉矶                         3.3
+overlay_3_5                                  纽约                           7.3
+overlay_3_6                                  芝加哥                         3.0
+overlay_3_7                                  华盛顿                         4.0
+overlay_3_8                                  达拉斯                         1.0
+overlay_3_9                                  底特律                         1.1
+overlay_3_10                                 巴黎                           2.2
+overlay_3_11                                 柏林                           1.9
+overlay_3_12                                 伦敦                           7.7
+overlay_3_13                                 列宁格勒                       4.9
+overlay_3_14                                 莫斯科                         8.7
+overlay_3_15                                 罗马                           2.8
+overlay_3_16                                 东京                           8.4
+overlay_3_17                                 新加坡                         2.6
+overlay_3_18                                 曼谷                           4.7
+overlay_3_19                                 孟买                           8.2
+overlay_3_20                                 墨西哥城                       8.8
+overlay_3_21                                 里约热内卢                     5.6
+overlay_3_22                                 开罗                           6.1
+overlay_3_23                                 伊斯坦布尔                     5.5
+overlay_3_24                                 北京                           5.5
+overlay_3_25                                 上海                           6.3
+overlay_3_26                                 德里                           4.9
+overlay_4_1                                  -----------------------------------------------
+overlay_4_2                                  -美国空军预计损失（百分比）
+overlay_4_3                                  -----------------------------------------------\n
+overlay_4_4                                  航空航天防御司令部                       23
+overlay_4_5                                  空中作战司令部                           76
+overlay_4_6                                  空军教育与训练司令部                     24
+overlay_4_7                                  空军通信司令部                           68
+overlay_4_8                                  空军情报司令部                           58
+overlay_4_9                                  空军后勤司令部                           78
+overlay_4_10                                 空军预备役司令部                         14
+overlay_4_11                                 空军太空司令部                           12
+overlay_4_12                                 空军特种作战司令部                       56
+overlay_4_13                                 空军系统司令部                           86
+overlay_4_14                                 空中机动司令部                           87
+overlay_4_15                                 阿拉斯加空军司令部                       92
+overlay_4_16                                 美国空军总部司令部                       85
+overlay_4_17                                 东北空军司令部                           75
+overlay_4_18                                 太平洋空军司令部                         91
+overlay_4_19                                 太平洋空军                               85
+overlay_4_20                                 特种武器司令部                           67
+overlay_4_21                                 战略空军司令部                           85
+overlay_4_22                                 战术空军司令部                           91
+overlay_4_23                                 第三航空师                               75
+overlay_4_24                                 美国驻欧洲空军                           79
+overlay_4_25                                 美国空军南方司令部                       65
+overlay_5_1                                  -----------------------------------------------------------------
+overlay_5_2                                  -辐射暴露对人体生理机能的影响-
+overlay_5_3                                  -----------------------------------------------------------------\n
+overlay_5_4                                  -低于 1 Sv（50-100 rem）
+overlay_5_5                                  轻度放射病，伴随头痛；免疫细胞受损，
+overlay_5_6                                  感染风险增加。男性可能出现
+overlay_5_7                                  暂时性不育。\n
+overlay_5_8                                  1-2 Sv（100-200 rem）      轻度       30 天后死亡率 10%
+overlay_5_9                                  2-3 Sv（200-300 rem）      中度       30 天后死亡率 35%
+overlay_5_10                                 3-4 Sv（300-400 rem）      重度       30 天后死亡率 50%
+overlay_5_11                                 4-6 Sv（400-600 rem）      急性       30 天后死亡率 60%
+overlay_5_12                                 10-50 Sv（1,000-5,000 rem）急性       7 天后死亡率 100%\n
+overlay_5_13                                 50-80 Sv（5,000-8,000 rem）
+overlay_5_14                                 数秒至数分钟内出现定向障碍和昏迷。
+overlay_5_15                                 数小时后因神经系统全面衰竭而死亡。\n
+overlay_5_16                                 -超过 80 Sv（>8,000 rem）             立即死亡。
+overlay_6_1                                  -----------------------------------------------
+overlay_6_2                                  -美国核弹：产量、当量与重量
+overlay_6_3                                  -----------------------------------------------\n 
+overlay_6_4                                  MK-1      5      15-16 千吨           8,900 磅
+overlay_6_5                                  MK-3    120      18-49 千吨          10,300 磅
+overlay_6_6                                  MK-4    550       1-32 千吨   10,800-10,900 磅
+overlay_6_7                                  MK-5    140      6-120 千吨     3,025-3,125 磅
+overlay_6_8                                  MK-6   1100      8-160 千吨     7,600-8,500 磅
+overlay_6_9                                  MK-7   1800       8-61 千吨     1,645-1,700 磅
+overlay_6_10                                 MK-8     40      25-30 千吨     3,230-3,280 磅
+overlay_6_11                                 MK-11    40      25-30 千吨     3,210-3,500 磅
+overlay_6_12                                 MK-12   250      12-14 千吨     1,000-1,200 磅
+overlay_6_13                                 MK-14     5        5-7 百万吨   28,954-31,000 磅
+overlay_6_14                                 MK-15  1500    1.6-3.9 百万吨           7,600 磅
+overlay_6_15                                 MK-16     5        6-8 百万吨   39,000-42,000 磅
+overlay_6_16                                 MK-17   200      10-15 百万吨   41,400-42,000 磅
+overlay_6_17                                 MK-18    90        500 千吨           8,600 磅
+overlay_6_18                                 MK-21   275        4-5 百万吨   15,000-17,700 磅
+overlay_6_19                                 MK-24   105      10-15 百万吨   41,400-42,000 磅
+overlay_6_20                                 MK-28  4500   70 千吨-1.1 百万吨     1,700-2,320 磅
+overlay_6_21                                 MK-36   940      9-10 百万吨   17,500-17,700 磅
+overlay_6_22                                 MK-39   700       3-4 百万吨     6,650-6,750 磅
+overlay_6_23                                 MK-41   500        25 百万吨   10,500-10,670 磅
+overlay_6_24                                 MK-43  1000     70 千吨-1 百万吨     2,060-2,125 磅
+overlay_6_25                                 MK-53   350         9 百万吨     8,850-8,900 磅
+overlay_6_26                                 MK-57  3100      5-20 千吨         490-510 磅
+overlay_6_27                                 MK-61  3150    80-340 千吨         695-716 磅
+overlay_6_28                                 MK-83   650  最高 1.2 千吨           2,400 磅
+overlay_7_1                                  -------------------------------------------------
+overlay_7_2                                  -放射病：症状与体征
+overlay_7_3                                  -------------------------------------------------\n 
+overlay_7_4                                  恶心与呕吐
+overlay_7_5                                  腹泻
+overlay_7_6                                  皮肤灼伤（发红、起泡）
+overlay_7_7                                  虚弱、疲劳、衰竭、昏厥
+overlay_7_8                                  脱水
+overlay_7_9                                  暴露部位发炎
+overlay_7_10                                 脱发
+overlay_7_11                                 口腔黏膜溃疡
+overlay_7_12                                 食管溃疡
+overlay_7_13                                 胃溃疡
+overlay_7_14                                 肠道溃疡
+overlay_7_15                                 呕血
+overlay_7_16                                 血便
+overlay_7_17                                 鼻、口、牙龈和直肠出血
+overlay_7_18                                 瘀斑
+overlay_7_19                                 皮肤脱落
+overlay_7_20                                 皮肤开放性溃疡
+overlay_8_1                                  ---------------------------------------------------------------------- 
+overlay_8_2                                  -同位素   天然丰度   半衰期（年）   衰变方式   能量（MeV）   产物
+overlay_8_3                                  ----------------------------------------------------------------------\n 
+overlay_8_4                                  Pu-238   人工合成                 88         SF        -       -
+overlay_8_5                                  Pu-239   人工合成             24,110         SF        -       -
+overlay_8_6                                  U-232    人工合成               68.9       a + SF    5.414   Th-228
+overlay_8_7                                  U-233    人工合成            159,200       SF + a    4.909   Th-229
+overlay_8_8                                  U-234       0.0058%            245,500       SF + a    4.859   TH-230 
+overlay_8_9                                  U-235         0.72%        703,800,000       SF + a    4.679   TH-231 
+overlay_8_10                                 U-236    人工合成         23,420,000       SF + a    4.572   Th-232
+overlay_8_11                                 U-238       99.275%      4,468,000,000       SF + a    4.270   TH-234
+overlay_9_1                                  不如来一盘国际象棋？
+overlay_10_1                                 ---------------------------------------------------
+overlay_10_2                                 -全球战略目标
+overlay_10_3                                 ---------------------------------------------------\n
+overlay_10_4                                 北美防空司令部     38 44' 39.68" N     104 50' 48.18" W
+overlay_10_5                                 凯夫拉维克         63 59' 07.71" N      22 36' 20.06" W
+overlay_10_6                                 布鲁塞尔           50 50' 54.79" N       4 21' 36.66" E
+overlay_10_7                                 那不勒斯           40 51' 14.64" N      14 17' 21.84" E
+overlay_10_8                                 蒙斯（比利时）     50 26' 32.55" N       3 57' 28.44" E
+overlay_10_9                                 诺福克             36 56' 59.84" N      76 19' 48.57" W
+overlay_10_10                                珍珠港             21 21' 48.77" N     157 57' 39.31" W
+overlay_10_11                                拉姆施泰因         49 26' 13.33" N       7 35' 54.11" E
+overlay_10_12                                嘉手纳（冲绳）     26 21' 28.86" N     127 46' 13.53" E
+overlay_10_13                                罗塔（西班牙）     36 38' 15.33" N         21' 11.90" W
+overlay_10_14                                符拉迪沃斯托克     43 06' 41.86" N     131 53' 23.22" E
+overlay_10_15                                塞瓦斯托波尔       44 36' 56.88" N      33 34' 46.83" E
+overlay_10_16                                列宁格勒           59 57' 39.60" N      30 18' 41.85" E
+overlay_10_17                                摩尔曼斯克         68 58' 14.59" N      33 01' 11.20" E
+overlay_10_18                                塔季谢沃           51 40' 37.79" N      45 36' 46.89" E
+overlay_10_19                                巴尔瑙尔           53 19' 39.80' N      83 45' 35.86" E
+overlay_11_1                                 --------------------------------------------------- 
+overlay_11_2                                 -重要核爆记录
+overlay_11_3                                 --------------------------------------------------- 
+overlay_11_4                                 -日期            名称            当量（千吨）  国家\n
+overlay_11_5                                 1945-07-16     三位一体             19      美国
+overlay_11_6                                 1945-08-06     小男孩               15      美国
+overlay_11_7                                 1945-08-09     胖子                 21      美国
+overlay_11_8                                 1949-08-29     乔-1                 22      苏联
+overlay_11_9                                 1952-10-03     飓风                 25      英国
+overlay_11_10                                1952-11-01     常春藤麦克       10,200      美国
+overlay_11_11                                1953-08-12     乔-4                400      苏联
+overlay_11_12                                1954-03-01     城堡布拉沃       15,000      美国
+overlay_11_13                                1955-11-22     RDS-37            1,600      苏联
+overlay_11_14                                1957-11-08     格拉普尔 X        1,800      英国
+overlay_11_15                                1960-02-13     蓝色跳鼠             60      法国
+overlay_11_16                                1961-10-31     沙皇炸弹         50,000      苏联
+overlay_11_17                                1964-10-16     596                  22      中国
+overlay_11_18                                1967-06-17     第六次试验        3,300      中国
+overlay_11_19                                1968-08-24     老人星            2,600      法国
+overlay_11_20                                1974-05-18     微笑佛陀             12      印度
+overlay_11_21                                1998-05-11     沙克蒂 I             43      印度
+overlay_11_22                                1998-05-13     沙克蒂 II            12      印度
+overlay_11_23                                1998-05-28     查盖-I                9      巴基斯坦
+overlay_12_1                                 -----------------------------------------
+overlay_12_2                                 -测试人员（第 1 页，共 2 页）
+overlay_12_3                                 -----------------------------------------\n
+overlay_12_4                                 ASHLEY 'NEOTHERMIC' PINNER
+overlay_12_5                                 ALESSANDRO 'FIRESHIP4' PEDRINA MCCARTHY
+overlay_12_6                                 BILL 'BIPP5' RASTELLO
+overlay_12_7                                 BRODY 'LEONAKEN' BROOKS
+overlay_12_8                                 CHARLES BROWN
+overlay_12_9                                 CHRIS BROWN
+overlay_12_10                                CHRIS 'SUVIR' BOYD
+overlay_12_11                                CHRISTOPH KOEHLER
+overlay_12_12                                CORPORATESPECTRE
+overlay_12_13                                DAMJAN 'VIRUSEX' BELAVIC
+overlay_12_14                                DANIEL 'DK' KARLING
+overlay_12_15                                DEREK 'PUNISHER BASS' SCHOTT
+overlay_12_16                                FURRIES
+overlay_12_17                                HENNING HORN
+overlay_12_18                                HEWAT KENNEDY
+overlay_12_19                                JASON 'JAYSC' TIEN
+overlay_12_20                                JENS WIECHERS
+overlay_12_21                                JO STANSFIELD
+overlay_12_22                                JOHAN 'ZARKOW' MUNKESTAM
+overlay_12_23                                JOSHUA 'MIAH' CLAYTON
+overlay_12_24                                JUSTIN 'ATELOPHOBIA' GOTTULA
+overlay_12_25                                JORGEN 'DIRTY HARRY POTTER' BERTHELSEN
+overlay_12_26                                KASPER 'AAARGH' MEERTS
+overlay_12_27                                LEANDER 'ELDIABLO' HAMBLEY
+overlay_12_28                                LUKE HOSCHKE
+overlay_12_29                                MARIUSZ 'MANDI^ATO' DANILEWICZ
+overlay_13_1                                 -----------------------------------------
+overlay_13_2                                 -测试人员（第 2 页，共 2 页）
+overlay_13_3                                 -----------------------------------------\n
+overlay_13_4                                 MARK 'LLAMABOY' VINE
+overlay_13_5                                 MICHAEL NICHOLLS
+overlay_13_6                                 MORTEN 'NUTTER' PEDERSEN
+overlay_13_7                                 MR. VIOLATOR
+overlay_13_8                                 NEIL ROSS
+overlay_13_9                                 NIGEL 'MOUSE' MORSE
+overlay_13_10                                OLIVER 'AGENTX 24' GRUBIN
+overlay_13_11                                PHYDAUX
+overlay_13_12                                PIOTR 'THEPIACHU' PIASECKI
+overlay_13_13                                PITBEAST
+overlay_13_14                                PROZAK
+overlay_13_15                                RICHARD 'FALSE' LA CHARIT  III
+overlay_13_16                                SAM 'MAS' NORRIS
+overlay_13_17                                SHAWN 'TRICKFRED' MACIVER
+overlay_13_18                                SIMON 'N3O77' SPARKS
+overlay_13_19                                STEVEN NOONAN
+overlay_13_20                                SWIL232
+overlay_13_21                                THE GOLDFISH
+overlay_13_22                                THIERRY 'BOLKA' MARTIN
+overlay_13_23                                TIM BAVERSTOCK
+overlay_13_24                                TOBY 'THE TUBSTAR' INNOCENT
+overlay_13_25                                TOUMAZ
+overlay_13_26                                VIRGINIJUS 'LEGIO' PAMPIKAS
+overlay_13_27                                WILL 'MIZER' NEW
+overlay_13_28                                WOLFLORD
+overlay_13_29                                ZACHARY 'XYZYXX' PARKER
+overlay_14_1                                 -----------------------------------------
+overlay_14_2                                 -Mac 版测试人员
+overlay_14_3                                 -----------------------------------------\n
+overlay_14_4                                 ALASTAIR 'PROPHILE' LYNN
+overlay_14_5                                 ALEC 'HAMSTER' INGULSRUD
+overlay_14_6                                 ANDREW 'ANDCARNE' CARNE
+overlay_14_7                                 BOLKO 'KRAUTI' MAASS
+overlay_14_8                                 BRIAN DICK
+overlay_14_9                                 BRYCE 'ZOMBAT' HOMICK
+overlay_14_10                                CIAR N 'MONTYPHY' EATON
+overlay_14_11                                DOMINIC 'REFRIDGERON' WHITE
+overlay_14_12                                JACK 'DASH RANTIC' CARLSON
+overlay_14_13                                JAMES 'CONSUL BOB' GOOCH
+overlay_14_14                                JAMES 'LASTOF' TITMUSS
+overlay_14_15                                JONAS 'FREQ245' MIRWALD
+overlay_14_16                                KIRK 'KAUTHOR' STALEY
+overlay_14_17                                MARK 'MRXAK' PETCAVAGE
+overlay_14_18                                MIKE ASH
+overlay_14_19                                NATHANIEL 'MACKILROY' PORTER
+overlay_14_20                                NICK 'NFREADER' FARLEY
+overlay_14_21                                OWEN 'MR ED209' BILLCLIFFE
+overlay_14_22                                PER 'PV2B' VON ZWEIGBERGK
+overlay_14_23                                SOLRA BIZNA
+overlay_14_24                                XANDER HENDERSON
+overlay_15_1                                 -----------------------------------------
+overlay_15_2                                 -DEFCON 更新版测试人员
+overlay_15_3                                 -----------------------------------------\n
+overlay_15_4                                 BRIAN 'SIEVERT' GOSNELL
+overlay_15_5                                 ALEXANDER 'LAIKA'
+overlay_15_6                                 MANUEL 'BERT' MOOS
+overlay_15_7                                 JOHN KNOTTENBELT
+overlay_15_8                                 ZAD
+overlay_15_9                                 CALLUM 'NEXUSTINI' CANDY
+overlay_15_10                                RAPHAEL TASSEEL
+overlay_15_11                                LOUIS ALDOUS
+overlay_15_12                                JACOB HILL
+overlay_15_13                                KEIRON 'KEZZA' MCPHEE
+overlay_15_14                                BEN 'CORPORATION'
+overlay_15_15                                VAULT TEC                      
+overlay_16_1                                 ----------------------------------------
+overlay_16_2                                 -Mac 版移植：AMBROSIA SOFTWARE
+overlay_16_3                                 ----------------------------------------\n
+overlay_16_4                                 MIKE BLAGUSZEWSKI                移植
+overlay_16_5                                 MARCUS CONGE                     应用图标
+overlay_16_6                                 DAVID DUNHAM                     测试
+overlay_16_7                                 EVAN 'SULTAN' SMITH              测试
+overlay_16_8                                 -附加移植
+overlay_16_9                                 JOSHUA 'MIAH' CLAYTON
+overlay_16_10                                STEVEN NOONAN\n
+overlay_16_11                                ----------------------------------------
+overlay_16_12                                -Linux 版移植
+overlay_16_13                                ----------------------------------------\n
+overlay_16_14                                STEVEN NOONAN
+overlay_16_15                                JOHN KNOTTENBELT
+overlay_16_16                                JOSHUA 'MIAH' CLAYTON\n
+overlay_16_17                                ----------------------------------------
+overlay_16_18                                -DEFCON 更新版
+overlay_16_19                                ----------------------------------------\n
+overlay_16_20                                KEIRON 'KEZZA' MCPHEE            开发负责人
+overlay_16_21                                JASMIN BRUMME                    音频系统\n
+overlay_16_22                                BRIAN 'SIEVERT' GOSNELL           地图美术\n
+overlay_16_23                                ----------------------------------------
+overlay_16_24                                -翻译服务
+overlay_16_25                                ----------------------------------------\n
+overlay_16_26                                GAME LOCALIZATION NETWORK LTD.
